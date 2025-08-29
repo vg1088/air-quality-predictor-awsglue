@@ -1,0 +1,501 @@
+Policy_ID,Customer_Name,Policy_Type,Coverage_Amount,Premium_Amount,Claim_Status,Start_Date,End_Date,Agent_Name,City,State
+e8251a2a-6fc9-4ec7-94cd-c1d92ae37ab0,Joshua Castaneda,Home,296650.73,3351.17,Closed,2024-12-19,2029-06-18,Elijah Powell,Stephenbury,Connecticut
+4ef7663d-28bd-4768-a339-2ac2721f8d2c,Carlos Rollins,Health,357438.48,644.95,Pending,2022-12-17,2026-07-17,Haley Cox,North Ryanfurt,Michigan
+521e64b5-7f05-4c60-99d9-ba050201bcbd,Shawn Parker,Auto,399831.32,3797.74,Closed,2022-10-07,2023-09-05,Jennifer Hernandez,North Jeremiah,Oregon
+7bc8ea89-0c82-4700-96df-d7d1c8d74a3a,Heidi Dominguez,Home,340048.37,4385.53,Rejected,2025-07-25,2028-06-14,Carlos Garcia,East Elizabeth,North Carolina
+eb4ad0a3-a2e8-462d-ba2d-86f3eed1eb46,Jonathan Hunter,Business,44520.07,1756.28,Closed,2023-12-03,2030-03-21,James Berry,Smithmouth,New Hampshire
+4136bbe2-d2fd-4ee6-916d-ebabd9fc6657,Adam Estes,Auto,190819.46,2165.71,Pending,2024-10-14,2029-01-01,Anthony Kline,Michaelbury,Georgia
+4e246fa1-e028-4490-9e1d-80e57b2ffebb,Catherine Cochran,Business,21660.92,3683.22,Closed,2022-12-19,2026-08-30,Brandon Norris,Kennethmouth,Delaware
+df484dde-e902-4cdf-8206-ca7e6743b7bc,Eugene Park,Home,338838.11,2999.75,Open,2023-10-19,2026-04-11,Tonya Mooney,South Oliviaport,Texas
+d6fdc66c-02b6-4b09-bf7e-9052ffe6a2cb,Jessica Fowler,Commercial Property,280745.23,2659.66,Closed,2021-07-13,2027-10-03,Brian Pierce,New James,Georgia
+4a2d8458-8908-4aca-af48-5d0b4fe9d7a2,John Richards,Home,313820.75,2299.67,Closed,2023-05-26,2025-10-21,Cheryl Sanders,New Kimberly,Alabama
+f10c07b5-e969-476d-9115-16cac28ce78a,Katie Martinez,Life,188759.04,4290.05,Pending,2022-03-28,2022-09-01,Luis Williams,South Paulview,California
+fd69fb65-1368-43fc-ab6b-6b87b47161c0,Hannah Smith,Commercial Property,96202.52,2514.74,Closed,2024-07-12,2029-05-10,Thomas Johnson,Greenport,Wisconsin
+5fb1e56e-02c4-4a52-a20b-5d5293d5c1c0,David Ross,Commercial Property,118963.35,4171.37,Pending,2023-04-01,2026-03-13,Carol Williams,Lake Cory,South Carolina
+7c6f7e10-2549-49a7-917e-d743f60eeb84,Louis Anderson,Commercial Property,375707.41,3841.59,Rejected,2025-06-13,2029-04-09,Andrew Ferguson,West Gavin,Mississippi
+ae8f78ab-4f9f-4061-ae61-d25550b45ecc,Stephen Pope,Auto,350016.36,3325.77,Pending,2024-09-03,2025-12-18,Robert Rodriguez,Lisastad,Maine
+2ba44249-0b21-4b28-a8c3-3b7968cce560,Ashley Welch,Auto,279049.45,3684.4,Closed,2021-04-14,2027-11-06,Susan Young,North Shane,Alabama
+fea6194b-f3ec-4be6-9d50-be6b5ddae303,Scott Munoz,Business,496905.81,4682.57,Rejected,2023-12-11,2026-12-19,Cheryl Chavez,Shermanville,Georgia
+e2de87ae-14bb-4ac4-ac83-b8bcdb048e65,Deborah Mays,Health,211136.5,2816.55,Closed,2021-12-27,2024-05-18,Thomas Sandoval,Nathanstad,West Virginia
+efd6099f-de04-4709-9c3e-db7bb8abcb7f,Richard Santiago,Home,147593.74,4124.62,Closed,2023-01-01,2027-01-20,Lisa Hill,West Willieshire,New York
+33320837-633d-4aaa-ae64-db9870b82582,Laura Cook,Home,11640.42,3828.52,Closed,2024-08-05,2025-10-31,Ashley Trevino,Michaelmouth,Massachusetts
+e8b44a93-4142-4905-8a66-73a4f67cead2,Ashlee Bates,Business,350203.36,2592.14,Pending,2022-03-28,2026-12-22,Micheal Martin,Meaganburgh,Louisiana
+214edd32-7d4a-4692-953e-40180e8a97e2,Cynthia Thomas,Life,444418.21,1969.42,Closed,2021-09-03,2025-08-22,Rebecca Farmer,Port Curtisbury,California
+d4e1dac8-3b3c-42af-9ca3-2d6d37770160,Amanda Cunningham,Commercial Property,28490.7,567.82,Closed,2021-01-21,2021-12-31,Brandi Hicks,Harveyborough,Alabama
+7ab55b2e-e28a-46d2-9fa4-b3c6b0d152fb,Jennifer Glass,Health,205881.1,1914.08,Rejected,2024-11-01,2029-09-24,Denise Foley,Taylorfurt,Ohio
+900c1dd8-0d9d-46e5-9502-56da3665f1bc,Alexis Kelley,Life,128747.55,338.66,Closed,2024-12-16,2030-05-15,Anthony Booth,Bondborough,Missouri
+a4f5ad9b-e1e7-4be5-bd5c-71d1aeeab046,Erika Hernandez,Home,288512.77,2208.31,Rejected,2024-04-23,2029-05-14,Steve Newton,South Christopherburgh,Washington
+304ede92-27f9-4637-8665-1b81412e4dea,Jennifer Montgomery,Health,486026.0,2679.91,Pending,2021-07-10,2023-03-18,Robert Garner,Chanfort,South Dakota
+63350bef-87c7-4f1d-989e-7edeff546006,Michael Romero,Commercial Property,231579.83,320.42,Open,2021-05-15,2023-03-27,Mark Harris,Kristentown,Maryland
+d3833d9c-3ce8-43b0-a625-9f71127b1c2b,Steven Johnson,Health,409489.5,1064.14,Open,2021-08-24,2024-07-25,Sandra Collins,Romerochester,Pennsylvania
+12a566b4-fd75-44e9-9935-a0e5713cd3ac,Amanda Buck,Health,166249.58,2790.35,Open,2022-09-28,2023-01-21,Maria Perez,Mendozamouth,Alaska
+acfe388d-5068-4320-842e-1b6043179ba6,Teresa Brown,Life,129608.03,3335.5,Closed,2025-06-19,2029-10-16,Barry Clayton,Phammouth,Massachusetts
+60633bc4-dfcf-4735-91d0-7775ffc1906a,Brandon Mckay,Business,399283.9,1799.93,Open,2020-10-03,2024-08-01,Rachel Collins,Josephborough,South Dakota
+770fdb0a-cee5-4c88-8ac2-17b75e9b6ddb,Daniel Mcdonald,Business,151141.32,924.22,Open,2023-05-21,2029-01-25,Jeffrey Williams,Jacquelineshire,Nevada
+7e75732f-5620-47e6-aaf0-4dc290c7e66b,Ryan Walker,Home,248276.44,1968.75,Open,2021-04-21,2028-04-07,Chloe Wright,North Kathryn,Wisconsin
+4f05de5d-090c-4078-8248-622b6a308523,Eric Brown,Auto,55791.56,4248.87,Open,2022-01-22,2026-08-12,Paul Olsen,Stuartfurt,Mississippi
+27314578-0a0c-43b3-bf0c-d5c356da1309,Olivia Cox,Commercial Property,58597.97,1580.9,Open,2021-02-10,2021-02-14,Billy Harris,Lopezfort,Illinois
+c274f0da-da5c-440e-98fe-726ba4537a4f,Shane Burns,Business,316867.68,2033.7,Closed,2025-03-23,2026-11-12,Laura Graham,Port Ravenbury,Minnesota
+80846662-8f02-47d2-9b18-b21230906cd6,Bryan Clark,Health,76745.22,3660.35,Pending,2025-04-15,2027-10-08,Brandon Foster,East Edwardfurt,Maryland
+b2c03285-dbe1-4482-871c-6323caffd702,Alan Smith,Health,232777.78,2271.36,Closed,2022-05-16,2026-03-21,Clifford Gonzalez,Bartonview,Michigan
+30192838-ef66-4c81-b91c-6d61083c9bfb,Mitchell Townsend,Home,59273.08,4305.3,Closed,2022-01-09,2022-05-01,Patricia Burgess,Michaelfurt,Delaware
+d1a6c504-0b5b-400c-b649-6456935bc847,William James,Life,47387.55,4599.51,Open,2025-01-25,2027-08-29,Denise Quinn,Wheelerhaven,Texas
+cb882804-9601-4944-b16e-796555df5d47,Tanya Wright,Commercial Property,483795.21,4190.5,Pending,2025-06-03,2030-05-10,Jerry Davis,West Joannaborough,Connecticut
+06476234-cf9b-405e-a8e3-8ba24842a154,Todd Walker,Home,350977.61,4817.06,Open,2024-10-17,2030-05-17,Vanessa Romero,Paulport,Florida
+7aeb38a2-eaaa-4b3e-b2f6-dcb971eb8512,Brandon Lopez,Health,459131.47,2578.79,Open,2021-07-29,2023-07-31,Virginia Jackson,Deniseshire,Arizona
+ded86ca7-b216-4621-9aa0-91ba5c75ecf4,Kenneth Dennis,Health,113702.26,3717.06,Open,2021-05-31,2025-11-17,Mrs. Heather Weaver,Port Erikbury,Vermont
+bf10b233-95df-4c67-a1df-8f1ba9536e65,Stephen Stone,Life,409593.57,389.1,Closed,2023-04-17,2024-11-15,Melinda Webster,Wellsfort,Virginia
+ed44154b-72b0-4876-b50a-231724c0d292,Julie Fields,Home,81079.17,4595.01,Pending,2023-05-14,2028-07-20,Alexandria Peterson,North Shelley,Illinois
+bfee1cfc-776e-4e06-879c-7e3f46414466,Bradley Johnson,Auto,323343.46,280.81,Closed,2023-06-21,2026-11-04,Mr. Richard Martinez,North Diamondberg,Tennessee
+e5b0cc75-ecc4-4252-a377-cb1397e61ebd,Amber Nicholson,Health,290336.25,1902.15,Rejected,2024-05-31,2027-10-16,Erik Davis,Welchborough,Arizona
+1d34d669-b729-489a-8a6e-b85db635eb1b,Robert Snyder,Life,426063.64,4171.44,Rejected,2020-09-24,2030-02-21,Emily Lopez,Hernandezchester,Texas
+0ea4cace-1f30-45ae-9a74-a69fde02c5d3,Gregory Sandoval,Business,213651.98,2450.63,Closed,2024-09-15,2028-01-25,Holly Juarez,South Sarastad,Illinois
+4d715fd5-f1d1-434e-960d-c137476f4f68,Laura Hammond,Auto,88597.95,4221.87,Open,2023-05-10,2027-07-17,Deborah Moreno,North Josephfurt,Oklahoma
+8a66dd24-000a-496e-8745-fbdac8442999,Dwayne Robinson,Life,157798.0,4609.6,Open,2022-02-20,2027-09-11,Aaron Bass,East Adamstad,Oregon
+b1d3ac62-309a-4703-ae52-e5c79e2f9c8c,Tina Cook,Life,360583.13,2540.94,Open,2025-01-31,2027-09-24,Tammy Thomas,Port Jameston,Idaho
+d7249cf5-1323-47d1-b287-6632fb62606f,Rebecca Poole,Auto,258476.62,1791.01,Rejected,2025-08-06,2027-11-11,Steve Kelley,New Steven,Hawaii
+26afe83c-a112-468c-a7a7-21ebccfac140,Sarah Nelson,Life,258303.47,4908.13,Closed,2024-08-27,2026-01-11,Mario Murray,Jamesbury,Texas
+a845ee54-4a7f-4ca8-8771-cef728dc08ad,Robert Glover,Life,360092.64,1146.16,Open,2021-02-17,2030-07-16,Mike Smith,West Angela,Kansas
+3297daea-a3ee-45dc-84d1-77637b5f4187,Allison Moore,Business,395786.3,685.89,Pending,2022-02-22,2024-03-23,James Romero,South Stephaniestad,North Dakota
+41e09c56-a066-4e07-b5a8-8d1b2dce618b,William Gonzalez,Auto,483493.63,1855.4,Closed,2024-06-11,2024-10-15,Stephen Blanchard,New Lauren,South Carolina
+aa0d6b6e-80ce-48bd-bed2-5660916229d8,Gregory Wright,Auto,261788.02,1504.13,Rejected,2020-09-05,2024-02-21,Jasmin Owens,New Michaelside,Iowa
+6c062b6a-7ecc-4a74-9953-cc8e0e041a9f,Jim Mcpherson,Commercial Property,490904.11,2845.28,Pending,2022-03-15,2025-12-30,Sarah Thompson,Robertfurt,Rhode Island
+3d282786-d923-4a39-8dfc-24c64e5eaefa,William Mason,Auto,25775.68,2819.03,Rejected,2023-09-10,2026-06-08,Stanley Torres,Youngbury,Pennsylvania
+b19f53b0-6d93-4b41-a43b-eb62ef9c47a7,Amy White,Auto,11790.04,1233.6,Closed,2023-06-26,2024-11-27,Shannon Sims,Hammondmouth,Montana
+e4631425-d61b-4fe6-b2e0-8bb352d82465,Sue Smith,Life,293112.42,739.32,Closed,2024-11-25,2028-01-15,Francisco Cole,South Drewberg,Minnesota
+66d91d1b-3ef4-443e-8ebf-2323b6ae018e,Lisa Hernandez,Auto,391960.96,3962.66,Rejected,2024-03-27,2027-11-02,Bradley Shaw,Ericport,North Carolina
+0a8dbb61-3738-4598-bb49-7c0d23b02b3f,Elizabeth Reynolds,Life,458349.09,1302.89,Pending,2023-01-12,2025-06-28,Michael Owen,East Lisa,Alaska
+f5b747d5-0336-49da-8b44-d2eced6e378c,Cynthia Stevens,Commercial Property,337062.12,2227.44,Pending,2024-01-01,2027-06-10,Melissa Cruz,New Benjaminborough,New Mexico
+4954a351-d52e-43c3-9d08-e8ab1ade469a,Marcus Romero,Life,154898.89,4046.23,Open,2023-01-25,2029-12-10,Anthony Peterson,Lauraport,Connecticut
+0a105e16-0163-42d1-830a-6edb3deed8c9,James Turner,Business,494943.49,3285.52,Rejected,2020-10-09,2027-08-12,John Baldwin,East Annafort,Louisiana
+1449d2b3-b275-49e5-a4ae-bbafa1bd3f63,Ryan Washington,Business,248768.61,1262.69,Pending,2023-10-15,2029-07-26,Jermaine Jordan,Lake Dan,Vermont
+9a610d7e-09a3-4d11-818b-09c471ca014f,Linda White,Auto,128783.63,4795.44,Open,2023-10-06,2029-09-09,Nicholas Williams,West Sarabury,Oklahoma
+c5bcb4e1-6fd9-4e83-8298-919f161d3b84,Keith Quinn,Life,340770.2,2333.78,Pending,2023-09-14,2027-09-19,Kristen Walker,Bentonton,Illinois
+d8f002df-83cb-4c49-a33e-328446386fbd,Kevin Cunningham,Health,222771.02,660.77,Pending,2023-03-02,2027-11-01,John Kline,Smithtown,Oklahoma
+ea0d2bfa-d925-4fac-8beb-1ca6a95621d9,Leslie Woods,Home,64093.85,3602.53,Open,2021-03-30,2025-10-28,Jason Anderson,New Mark,Maine
+e8a6dde2-3d05-4eff-842a-99ba937614e4,Joshua Sherman,Business,486247.03,2653.13,Pending,2023-07-11,2024-06-09,Manuel Mayer,Grahammouth,Missouri
+f9bde5e0-b401-44b1-9c3d-ec50dc2060bc,Kristina Baker,Life,401872.04,2916.14,Rejected,2021-02-22,2022-06-08,Darren Miller,Landryberg,Oklahoma
+d51b3716-8af6-4368-8bfc-592364908523,Thomas Davis,Auto,40479.08,779.16,Open,2022-02-03,2026-07-18,Bradley Liu,Meganport,Maine
+9b99460b-a1bf-4583-a52f-f49386424221,Anthony Andrews,Health,219369.01,3960.67,Open,2022-01-09,2022-06-23,Jonathan Dixon,Pattersonburgh,Kansas
+fca199f3-82e3-4930-a6e3-2e1fe0c8273e,Stephanie Singh,Business,103733.83,2653.95,Open,2024-09-07,2028-10-09,Dustin Dunlap,North Brian,Michigan
+b576cb49-25d2-44db-adaf-ede8f56f4c52,Thomas Willis,Business,420606.93,981.17,Pending,2025-05-17,2029-07-08,Dr. Gregg Andersen,Contrerasburgh,New Mexico
+043092f9-6340-4ff6-9cc0-15ad99768839,Michael Williams,Health,232079.85,3622.48,Rejected,2025-07-28,2030-07-19,Amanda Santiago,Joshuaberg,Maine
+03c2f86a-73b6-46dc-9390-d92faf10ea1d,Edwin Jones MD,Auto,25084.35,1590.95,Pending,2024-03-29,2026-08-03,Danny Lopez,Derekfurt,South Carolina
+0db012ce-d48a-471d-8abe-aa0d4bfde7db,Krystal Martinez,Business,296527.81,4971.38,Pending,2020-09-12,2027-03-23,Kylie Ferguson,Johnstad,Wyoming
+062b52de-bb16-46d5-abb1-5edb7c9bcf91,Brittany Davis,Business,90782.42,3404.59,Closed,2020-08-27,2022-11-13,Adam Thompson,East Tamaraview,Alabama
+2444c58e-fd6b-4d8f-9f53-43248b45c4f0,Nicholas Lee,Life,448152.23,3550.45,Pending,2023-08-27,2027-10-25,Terry Jordan,East Johnny,Oregon
+929c5d39-8f02-4136-89b8-82b8040be854,Caroline Smith,Life,416344.69,1496.95,Pending,2022-01-26,2022-02-12,James Martinez,Port Amy,Michigan
+23195d35-9356-4d91-a79f-272ba6c8425a,Kayla Barnett,Business,14876.94,4562.29,Open,2022-04-25,2026-02-02,Stacey Hale,Ramosberg,Arizona
+74790745-9191-4c61-9dab-d9afa132dfbe,Kenneth Taylor,Health,137855.41,3624.71,Closed,2022-01-05,2028-10-28,Mark Barber,Davidfort,Maine
+18c77485-73f6-4826-9461-7b03bcf861b9,Michelle Matthews,Commercial Property,261281.58,3767.8,Pending,2023-10-16,2025-05-31,William Webster,Floreston,Tennessee
+4bd3485a-1d4f-4604-a289-24e1c1e55af5,David Arnold,Health,160376.18,3559.32,Rejected,2022-01-16,2030-04-09,Joshua Little,Danielland,Vermont
+df217bfc-c49f-4ccc-a357-504ea5f6f24f,Rachel Rogers,Auto,409794.06,2602.93,Open,2020-11-11,2030-03-27,Gary Riley,Estradaton,Wisconsin
+55009010-aff1-4a86-8128-b539e68a06d4,Robert Davis,Commercial Property,324701.53,909.99,Rejected,2024-08-16,2029-08-24,Emily Allen,East Alison,Hawaii
+346d1cc6-ac61-44a0-9bf8-dd0d8f765c65,John Murillo,Commercial Property,230539.31,1832.24,Closed,2025-01-13,2026-04-22,Ann Davis,Lake Robertville,Texas
+61e49c09-15bf-4e45-a851-b604488ba365,Kelly Sherman,Health,15076.74,482.73,Open,2023-02-13,2029-05-09,Daniel Adkins,New Patrick,Iowa
+d6ef7f28-9523-474c-830f-31be7aee9dd8,Jennifer Edwards,Home,484227.47,2973.44,Pending,2021-09-24,2026-05-07,Stephanie Lin,Patriciaview,Mississippi
+9b654352-7570-4758-856d-ec682486298d,Sierra Woods,Commercial Property,408227.01,4134.71,Open,2023-12-30,2025-05-15,Matthew Bowen,Millerstad,Ohio
+12297ae0-f37f-4533-9699-e1cb513757fd,Christian Johnson PhD,Health,33929.71,1781.19,Open,2025-04-26,2028-01-14,Brandon Delgado,East Robertfort,South Carolina
+dc8ee404-d049-4c35-aa2a-293f6df3e133,Jordan Nguyen,Auto,367272.14,4747.99,Rejected,2025-08-01,2029-05-11,Richard Andrews,Lake Chad,West Virginia
+a02b8955-9a79-4ed0-a633-af63dc3a6da3,David Walker,Auto,305390.51,1669.03,Closed,2021-06-11,2024-05-25,Steven Smith,Amandabury,North Dakota
+637e0988-630a-49e8-aa9a-da6602fd083a,Christy Gray,Auto,21378.59,3596.14,Closed,2024-04-02,2030-05-26,David Griffin,New Kevinchester,New York
+62f72ed5-4f18-4a9f-b0c5-90f2f0a0199c,Steven Larson,Home,126349.43,1203.76,Rejected,2020-08-23,2026-05-08,Dawn Durham,Davidside,Florida
+8cc5705f-ba2d-429e-b9e9-5dfa22ae8f43,Susan Blackwell,Health,429637.17,4123.55,Pending,2025-04-01,2029-04-06,Mary Moreno,Mataside,Vermont
+f1404d71-135e-49a2-bb5d-9151398102b3,Mark Adams,Auto,480922.62,595.27,Open,2023-08-23,2024-05-25,Shane Wright,Lake Kimberlyside,Georgia
+f6ce1f6c-fd3d-45d2-8082-9a3b30da9d08,Christopher Mason,Home,45887.13,3827.8,Closed,2024-09-13,2025-04-10,Melissa Smith,Brendaborough,New Jersey
+9043fbe6-f1d4-4970-badd-9ee8185947ed,Mary Johnson,Auto,287397.55,4309.44,Rejected,2022-01-23,2025-02-04,Tamara Mccarthy,West Juan,Washington
+15763645-5211-45e8-a605-6488a793001d,Melinda Pittman,Health,149207.32,3016.76,Open,2020-11-25,2022-01-17,Christine Zimmerman,Castromouth,Indiana
+bc00edd3-e113-4ee2-9664-5c20eab4e741,Michael James,Home,286970.75,3545.55,Pending,2021-10-03,2024-11-10,Tyler Jones,Jamestown,Arkansas
+82670b25-1946-4e0d-9862-bcab45b0f63f,Justin Huff,Home,63602.57,3228.27,Pending,2020-11-12,2023-09-19,Cole Morales,East Kathryn,Indiana
+d12f20e0-0d5a-4524-a882-19914955358c,Jim Mendoza,Auto,472801.87,584.58,Open,2021-08-04,2022-09-01,Emily Guerrero,Douglasville,Alaska
+b844808d-ae22-41fc-9af5-029553b94cf6,James Green,Life,93115.76,814.51,Rejected,2023-07-31,2024-03-01,Paul Merritt,Lake Lynntown,Kentucky
+ec60a303-76c8-4b09-8549-049de3ab8824,Cynthia Acevedo,Commercial Property,405506.0,570.25,Open,2023-08-26,2024-10-24,Catherine Copeland,Medinaborough,Idaho
+fc1f63c0-d2c2-4b0d-8b20-b48e9d959d79,Janet Dickson,Life,226185.49,988.65,Pending,2025-03-02,2029-07-05,Michaela Gardner,South Amber,Oregon
+072061d7-b93f-4f40-9b60-ac3175ec3617,Jason Oliver,Life,317045.16,4100.02,Closed,2023-04-18,2025-05-05,Tonya Montgomery,Lisaview,New York
+ca5c2af3-16f3-486b-8536-23988240e09b,Jessica Johnson,Home,172319.4,868.56,Closed,2022-06-30,2030-03-19,Christopher Fletcher,Greenetown,Hawaii
+e5732b5d-efce-4137-8887-188ad15b701e,Taylor Gallagher,Business,368032.05,2692.36,Closed,2025-01-16,2029-05-10,Steven Kaiser,Port Anthony,North Dakota
+9453b4cb-5ad9-432b-ba90-49f091c89712,Stacey Soto,Home,494293.09,448.33,Closed,2022-06-06,2030-01-07,Lisa Ochoa,Port Joseph,Tennessee
+1d053577-9cea-463d-8319-7f136ff4ca39,Steven Rogers,Home,82930.61,1210.96,Open,2024-08-07,2025-04-24,Lisa Johnson,Jacobsburgh,South Dakota
+a4954be2-4da9-43f3-b5be-9e127d3d644e,Michael Ramirez,Commercial Property,470959.49,1874.59,Rejected,2021-08-14,2024-05-01,James Barrera,Duffyborough,Rhode Island
+f4d7ec3a-374d-48bf-9fc2-b06ee594008f,Brian Smith,Life,90369.94,4476.0,Open,2020-08-22,2021-12-03,Kristen Torres,Lake Thomasfurt,New Jersey
+33371aec-4c08-4af9-9297-8bde92a6141c,Pamela Rivera,Life,344245.77,4783.44,Closed,2021-03-25,2029-07-11,Haley Griffin,New Christinahaven,Virginia
+d1e1cdb6-0139-45e0-97d8-fa64c23c2b3a,Tina Grant,Health,376692.17,2113.44,Rejected,2025-06-26,2028-06-27,Brenda Warner,New Jerometon,New Jersey
+9e9a0dd2-5d4f-49f7-af37-f4d2caa60726,Dwayne Moore,Health,330435.46,1957.09,Rejected,2024-02-24,2028-03-07,Jessica Ramirez,South Elizabethtown,New Mexico
+b8a2c04a-ecc0-4155-a0d7-b1b0367eca51,Heather Cooper,Home,371547.05,698.82,Closed,2024-02-07,2025-11-06,Brandon Schroeder,New Kathryn,North Dakota
+d845ef76-6a30-4271-9464-5db18e1af2d2,Tyler Robinson,Life,157149.91,1144.79,Rejected,2020-10-10,2028-12-11,Chad Mejia,Nicholasbury,Arkansas
+a982539e-e057-4ab1-98f9-8b9e8274f4d2,Ashley Chavez,Commercial Property,176648.89,2623.32,Pending,2020-10-17,2029-12-22,Linda Sanchez,Longville,Wisconsin
+8cbb5771-f7f7-4270-a83f-90725ed410e5,Frederick Ward,Auto,210414.09,4520.11,Rejected,2021-12-25,2030-05-13,Steven Cunningham,Chasefort,West Virginia
+fecca6df-b2ad-42e2-8253-24f72cadc141,Mrs. Shawna West PhD,Auto,427501.83,1963.97,Open,2022-12-27,2029-03-20,Tiffany Ross,Port Kellystad,Kansas
+1a5dc2d7-feb9-4d9a-8299-0bc992e46e4e,Michelle Bates,Business,22746.65,422.86,Open,2021-12-23,2030-02-03,Cheryl Garcia,North Scotthaven,Minnesota
+03399e89-8234-4d99-b3c9-d6f2078701cc,Christopher Copeland,Health,197492.22,3715.52,Pending,2024-07-16,2029-03-27,William Jones,Brittanyburgh,Vermont
+135b464b-ff24-4616-84f9-fd744444059f,Susan Arroyo,Health,355430.32,2618.75,Closed,2024-06-27,2026-12-03,Alison Griffith,Tiffanyside,Vermont
+aa97699d-993e-4e88-a73d-a309f275c3e0,Lori Stafford,Business,410643.88,1246.62,Closed,2023-01-28,2024-08-11,Thomas Li,North Ryanfort,New York
+411feea7-9d6c-43cc-8c24-d706415ba7bd,Michael Downs,Health,49080.96,2915.47,Closed,2024-02-29,2027-01-09,Brian Owens,Lake Chrishaven,Delaware
+50f1202c-0b16-4321-89e6-2f18b42471f2,Susan Harvey,Health,196715.01,4153.03,Pending,2024-09-26,2029-07-24,Marcus Miller,South Elizabethmouth,Oregon
+72cfd17d-6b6d-4cba-af5f-26e72240ff31,Kristin Hayes,Health,278861.54,704.86,Open,2021-12-02,2030-03-23,Kelsey Benson,Lake Joseph,Alabama
+bce98beb-004c-4750-b394-2d697c4d0a19,Cassandra Harmon,Business,188843.34,2876.36,Rejected,2025-06-23,2030-02-09,Caitlin Greene,Hoffmanburgh,West Virginia
+d11801ed-f102-4e67-afd1-f4aebdd2b643,Emily Hall,Life,340995.23,1198.75,Open,2022-05-07,2026-07-12,Cheryl Ellis,New Ryanbury,Wyoming
+d19df20f-d547-447c-a8bd-2ed3f9bd7086,Rachel Patel,Commercial Property,151711.61,213.73,Open,2025-04-24,2029-09-09,John Mercado,Copelandborough,Minnesota
+c3b6ea95-71b1-44bc-a1b5-af45bc5941c7,Robert Cooper,Commercial Property,109965.35,2830.58,Open,2024-03-08,2029-02-11,Michael Roberts,East Christopher,Idaho
+999249b6-08ba-4dac-b64f-2ac596cc47da,Brad Ward,Auto,478307.51,2497.26,Closed,2024-02-02,2029-06-18,Courtney Lopez,Tarafurt,South Dakota
+fa09b9d9-0a63-4a00-9292-8102128d1875,Tina White,Business,274117.41,3499.14,Open,2021-09-01,2024-03-27,Vanessa Mcconnell,Port Jeffrey,Maine
+b5a979bd-5cf1-4c75-8777-4e9c9a00af24,Anthony Hill,Commercial Property,32737.57,3591.58,Rejected,2024-10-27,2025-12-11,Ms. Natalie Gallagher,New Danatown,California
+c7c389ba-b461-4cc8-82d7-3f682065e5cb,Jenna Brown,Auto,415974.94,4951.52,Rejected,2021-06-06,2025-06-27,Mrs. Lori Brown,Lake Rachel,Indiana
+a69f3b5c-0797-4979-9f4f-e3ba1fac5d53,Raymond Buchanan,Home,471599.63,498.57,Open,2022-11-13,2026-08-14,Howard Yates,New Lancefurt,Delaware
+2034b2ab-c18a-49a6-916f-959fbb21e203,Brett Welch,Auto,109146.56,3336.08,Pending,2021-12-29,2026-07-22,Craig Gonzalez,Johnbury,Idaho
+64b17bdc-1d5d-4403-a2dc-36e198971ab0,Amanda Hughes,Life,71672.22,1306.04,Pending,2020-12-02,2025-02-03,Sandra Kim,Alexanderhaven,Oklahoma
+1564a144-a193-4038-a604-fbd9fc2c0f88,Sarah Snyder,Auto,314958.03,2263.47,Closed,2021-11-27,2028-12-24,Bryan Morales,South Amandachester,Kentucky
+1058ff94-5fcd-4a56-b42c-487f2fb9ccae,Anthony Miller,Health,147105.62,3105.73,Closed,2023-05-21,2030-07-21,Kristen Schmidt,Hollyshire,Oregon
+20867154-b246-40df-9fc8-af4d58325a9d,Robert Curtis,Home,456555.34,1697.48,Rejected,2024-02-29,2028-10-08,Benjamin Donaldson,South Markchester,Massachusetts
+27857fc3-b328-44d3-906a-2c36c35d8eb9,Gloria Boyle,Life,270020.54,4545.13,Rejected,2024-12-28,2028-11-26,Nicole Brennan,Lewishaven,Wisconsin
+c6e48353-b9a4-4fbc-9ec9-f84bd143696a,Brian Smith,Business,141540.72,1815.24,Closed,2024-09-30,2026-08-08,Heidi Mooney,Port Lisafort,Massachusetts
+8c8de26a-1080-4dc6-92f2-0db2cd857d22,Michael Rodriguez,Life,46327.94,4578.6,Open,2020-11-27,2023-05-08,Sandy Oneal,Weeksbury,Delaware
+384f0761-1228-4bdc-b304-20b06bbbcd48,Meredith Lewis,Auto,320515.67,1316.96,Closed,2025-02-14,2029-03-23,Amanda Green,Fowlerhaven,North Carolina
+22260e8c-7914-4542-85de-0dbe874a994b,Nathan Hawkins,Home,21112.76,3093.15,Pending,2023-06-02,2028-09-13,Travis Reid,Davidhaven,Illinois
+a5c67bab-23c8-4a82-bacb-7d591facc7e4,Anthony Mason,Health,14422.53,2302.7,Open,2020-11-09,2020-11-12,Diane Williams,Port Felicia,California
+939e19c6-a41f-426f-8b82-fccc86fa40b1,Colleen Fry,Home,246228.48,2488.54,Open,2021-07-31,2022-04-18,Mark Woods,Jeffersonville,Michigan
+d6d42814-6322-4894-b2e7-c1870f49cc76,Anita Gibson,Home,245688.09,3083.96,Pending,2025-08-08,2028-12-15,Amanda Johnson,North Kaylee,New Jersey
+67357ec4-f2b4-4be2-b265-684131a6aa97,Kathryn Hardin,Home,442125.38,1589.28,Pending,2024-03-11,2028-07-04,William Henderson,South Alexanderside,West Virginia
+d98626b1-03d2-4534-91db-8d7834eacee8,Nancy Davis,Commercial Property,430308.37,1498.31,Open,2025-05-31,2027-02-11,Jeffrey Stark,Lake Courtneystad,Tennessee
+a7c865fd-f3ab-419b-a56e-2c05e8976d44,Susan Gordon,Business,275587.47,3605.82,Rejected,2022-12-28,2023-06-12,Terry Boone,Brittanyport,Montana
+51f7a97f-600d-4773-bb3c-ae574b9347b8,Brian Bates,Commercial Property,289785.35,3716.8,Open,2023-05-01,2023-10-15,Shannon Phillips,West Sueport,Colorado
+967e04f8-b614-4333-8552-150ca49f6c54,Timothy Bullock,Health,49951.03,3995.92,Closed,2021-04-16,2026-01-20,Jennifer Medina,Anthonyburgh,Wyoming
+68552da0-1b41-4ca7-90e0-d3b50b5aca86,Peter Johnson,Life,119302.91,203.47,Closed,2021-09-03,2022-04-09,Anthony Gould,Meganport,Louisiana
+5066094e-c56d-48aa-9007-00a78a8395eb,Donald Zimmerman,Commercial Property,194427.89,4653.65,Open,2021-01-15,2025-01-12,Sarah Mejia,Port James,Wyoming
+04535a67-2feb-456b-bbad-ffcaf1e97f9f,Phillip Cohen,Business,442407.0,398.91,Pending,2023-07-27,2024-01-06,Seth Smith,New Brittany,Texas
+b16e1d0e-7511-404c-86a8-ad4b3a8d381a,Kayla Martinez,Health,384503.11,861.26,Pending,2023-09-22,2026-01-26,Timothy Martinez,Sandyland,California
+c1a2b306-369b-4c4f-acaf-c7bd6d9193e5,Rebecca Hall,Auto,404603.91,3024.02,Pending,2023-11-20,2029-03-13,Nathan Newton,Andersonport,New Mexico
+717d3616-15ec-447f-8af8-906109a18526,Melissa Lee,Business,138507.61,1608.74,Pending,2025-01-03,2025-05-17,Shannon Harding,Lake Kara,Kentucky
+29526d7e-781a-44ce-888b-51e38df415c0,Keith Williams,Life,100393.5,1258.46,Rejected,2022-04-03,2027-03-30,Anthony Dawson,New Victorhaven,Tennessee
+7ad275ae-d363-4ee5-bdab-1fdf8f933708,Angela Le,Home,340938.44,568.82,Pending,2024-10-10,2028-03-18,Brooke Gill,Gregoryport,Montana
+2147544c-e4c4-4970-9dac-07bfc3edd159,Amy Sanchez,Home,175964.53,3761.84,Closed,2022-01-06,2025-08-25,Tony Fox,New Cassandratown,Colorado
+c103a34d-bdf4-40d6-af65-35840119151e,Mr. Samuel Caldwell PhD,Life,291222.91,1241.07,Open,2023-05-17,2028-12-10,Gail Lloyd,Rothtown,New Jersey
+fdc2111c-028e-47ab-8710-3c6afec1caea,Kimberly Allen,Life,476886.34,3707.93,Rejected,2024-03-18,2028-11-12,Shawn Taylor,New Stephanie,Massachusetts
+b2df3cac-49c0-4d0e-b4e5-1d9657354466,Stephen Oconnell,Life,65352.86,3395.26,Closed,2023-09-04,2029-03-05,Heather Jones,Millerstad,Alabama
+962e7634-ce81-4a59-8747-d6b2e95e0de6,Matthew Buckley,Health,184100.51,3607.05,Rejected,2025-04-10,2028-02-18,Kevin Calderon,Thompsontown,Arkansas
+e6b364a0-2d92-4211-a3c2-f6e07aca974a,Todd Frazier,Life,301019.42,3567.45,Pending,2023-12-04,2027-04-30,Jeffrey Meyer,Jamesstad,Tennessee
+02d4a97e-1396-458e-b46f-405a7c607fa0,Carly Lynn,Commercial Property,204410.71,3734.06,Pending,2020-10-16,2024-06-10,Michael Cummings,Lake Christinebury,Arizona
+a4f3597c-26d5-4ec5-8643-b5d598c64750,Rhonda Curtis,Life,187290.36,2779.18,Open,2021-02-08,2025-02-17,Cristina Jackson,Parkerberg,Hawaii
+764ce876-16be-42fc-8715-f69f98c52cce,Alyssa Bird,Auto,305626.96,1166.98,Open,2023-09-07,2029-07-09,Elizabeth Turner,South Angela,Arizona
+91052e18-d19a-4dc8-8eb5-578360ac4bd2,Tiffany Barnett,Life,265494.56,3618.73,Rejected,2022-08-15,2027-10-10,Kelsey Moses,Michaelstad,Colorado
+e85583de-8c87-45d3-9f9a-f5389ee9ef4e,Kenneth Cummings,Home,58230.51,4172.99,Pending,2023-01-17,2028-01-10,David Anderson,Jimeneztown,Georgia
+40419889-7c16-4002-a319-0df65531dc95,Amy Burke,Life,46819.63,1075.98,Closed,2023-10-25,2025-07-03,Kathleen Stevens,Powersshire,Iowa
+e17bf91b-bb31-481e-a6ab-bd305d791623,Meredith Price,Business,191103.59,1833.0,Pending,2022-10-18,2024-04-19,Michael Mathews,Ramseyshire,Rhode Island
+8266c5a6-83d2-45b0-b08b-272fa956d142,Colin Evans,Auto,218218.21,4549.5,Closed,2024-11-22,2029-02-10,Teresa Brown,South David,Oregon
+1f03b567-2cd3-4ccd-b60f-6f9f53f0a81b,Andrea Wood,Business,433595.27,3365.03,Pending,2021-02-28,2025-01-08,Daniel Graham,Mcdanielfurt,Delaware
+9d632c71-6e50-4a14-beb9-f430baa5ec7c,Justin Bailey,Auto,156228.98,728.68,Rejected,2023-11-28,2026-06-13,Jesse Golden,New Caleb,Kansas
+d9ebfd4b-5329-481a-80af-32b8cb6dd129,Barbara Perkins,Life,143457.19,1758.57,Rejected,2021-01-26,2027-09-10,Joseph Lewis,Adrianside,Minnesota
+2a6a8153-fa03-4d2c-8d48-49aa9d6b451b,Carrie Ortiz,Life,212009.86,2476.59,Closed,2022-11-11,2027-04-15,Elizabeth Henderson,Colemantown,Texas
+bada6886-1e39-4986-b155-fffdf1422ae9,Luis Maldonado,Health,77927.57,4536.35,Closed,2022-03-27,2028-06-28,Lisa Myers,North Lauraburgh,Texas
+eb2e9462-8a85-43ee-ad8b-5f57295f54c9,Michelle Peterson,Commercial Property,204642.89,4170.33,Rejected,2025-07-10,2028-07-22,Dawn White MD,Moralesmouth,Nebraska
+d0d11048-04dd-4ac0-bc9a-4939af0d4a05,Heather Blair,Home,161385.76,4498.03,Closed,2023-05-13,2027-08-30,April Coleman,Kellyborough,Illinois
+48d239d1-9849-4aad-8a35-eae1a3587133,Teresa Flores,Health,170806.63,205.27,Pending,2022-11-23,2025-12-06,Laura Rodriguez,Johnsonbury,Vermont
+3fb7e904-b75a-4f8d-bb1d-7141ca3d829a,Dawn Jones,Business,159269.33,828.04,Open,2023-07-16,2028-09-06,Christina Sweeney,Ryanville,New Hampshire
+3be47fe1-42ab-4652-a64c-59020590c91d,Teresa Thompson,Business,403210.5,731.33,Pending,2022-02-13,2024-03-05,Mrs. Emily Hill,Butlermouth,Mississippi
+6cf87892-bd30-4810-bef2-6d7734c01b09,John Johnson,Health,453456.48,1359.29,Open,2022-06-20,2026-11-29,Mr. Curtis Mcconnell,Amandaborough,Maine
+3da342cb-0d0b-45b9-a582-799695afbf0b,Tony Jimenez,Commercial Property,202200.44,4858.73,Closed,2022-08-05,2026-01-14,Ana Hall,Matthewborough,Illinois
+73b04486-fb3d-45e5-a86e-d6fba183bc73,Jennifer Vang,Commercial Property,387619.58,3381.97,Rejected,2020-09-28,2029-02-13,Kimberly Moore,Mcintoshview,Arizona
+df9af18b-47f1-4f27-9cce-59c00472c47b,Michael Barnett,Health,22099.93,1250.46,Closed,2022-06-05,2030-01-04,Andrew Ruiz,West Robert,Alabama
+2c58290b-b3ea-41a5-98f4-fe450086b4a7,Richard Knox,Home,463775.09,392.23,Rejected,2024-04-23,2024-05-08,Dr. Pam Anderson PhD,Tommytown,Florida
+4ed6ba27-793f-47f5-ac83-4713d1b08f20,Gregory Park,Commercial Property,325511.74,361.3,Closed,2021-12-12,2025-06-11,Martin Williams,Lake Stephanie,Texas
+0f8961ec-8489-43d1-8ddc-462346799fb8,Collin Davis,Health,186749.21,1818.66,Pending,2020-10-23,2030-04-13,James Rollins,Gabrielaburgh,Vermont
+e14fb7e7-9418-4ed3-80a3-cb5ea7253adf,Jennifer Allen,Health,416359.89,2386.42,Rejected,2025-01-31,2026-09-01,Joseph Maxwell,Lisaland,Illinois
+d96ce0e9-bb4c-445a-9bcb-e40c7dec6c9a,Christine Lewis,Life,453504.59,949.44,Pending,2021-12-09,2030-01-14,Laurie Chen,North Joelside,Mississippi
+06bb8c7c-d5ae-445b-8656-96bd2b9c6e05,Jacob Burns,Business,36083.56,860.13,Pending,2021-12-16,2030-06-10,Claudia Smith,Travisborough,Arizona
+18a882ec-0373-4b52-a61b-d8773d8ebd69,Meghan Smith,Home,466422.31,2570.25,Rejected,2020-08-21,2030-07-15,Molly James,Lake Toddberg,North Dakota
+0215047f-7232-4e8a-8d44-19e514d857e4,Charles Black,Home,155868.86,656.97,Closed,2022-11-27,2026-12-13,Nathan Williams,Vincentstad,New York
+df4dd2ec-5dbe-4185-95b8-200909841742,David White,Business,163127.07,4029.46,Open,2023-11-20,2024-07-06,James Smith,Deleonburgh,Michigan
+201497d1-0c57-4c72-ba91-9ac1826a9e13,Sabrina Levine,Commercial Property,434128.15,680.49,Open,2021-03-18,2026-09-19,Frank Davis,Sarahchester,North Dakota
+065e3f89-6682-4e50-9c1c-28915d7e5643,Sarah Wheeler,Auto,37284.46,4428.05,Open,2021-03-08,2021-11-04,Alison Russell,Port Dylan,Rhode Island
+ab297ba4-72e2-4fea-b533-1e62ae92d24d,Justin Bell,Auto,91930.27,835.38,Open,2024-12-25,2028-02-20,Robert Delgado,Hughesside,Louisiana
+c73900a4-66a8-4b4a-80e2-80ad630a5d6f,Oscar Ball,Home,233816.82,4580.19,Open,2023-02-18,2030-08-12,Veronica Murray,New Nicholas,Virginia
+95879a9c-b5b1-43df-8f0b-11ef75afa134,James West,Life,314433.02,702.15,Pending,2024-12-31,2027-08-11,Russell Daniels,Robinfurt,Idaho
+a8433ebf-2074-4755-a5af-6fb801200041,Deborah Donaldson,Commercial Property,489353.77,2803.5,Closed,2024-06-11,2024-12-20,Kelly Murray,Taylorshire,Michigan
+f20e1383-a857-4764-9ccc-d08cab1a87d0,Mr. George Caldwell MD,Life,76020.1,2239.98,Closed,2023-03-16,2029-12-09,Heather Noble MD,North Juliehaven,South Dakota
+42818a9b-413b-44cd-9c5f-73e585fdfaf9,Michael Turner,Home,387062.0,973.67,Open,2021-03-03,2025-11-10,Kristen Russell,Barnesside,Wisconsin
+373dbde4-18e6-4977-88b7-1be1d7a9f606,Jennifer Stewart,Home,67918.71,4572.1,Pending,2024-09-16,2028-08-06,Rachael Baldwin,Andrewstad,Louisiana
+5cad1256-e327-4952-86c5-5a3cb6ef7db6,Michael Dyer,Home,214963.83,1988.22,Open,2025-04-05,2026-03-13,Lisa Velazquez,North Stephaniefurt,Minnesota
+671a8e11-922a-46d3-a488-497a45670231,John Sutton,Auto,138185.27,2386.85,Closed,2024-07-26,2030-02-01,Timothy Spencer,Austinshire,Maryland
+8509776e-23d0-4599-9eea-4008b7cc123c,Douglas Baker,Health,71119.67,4209.1,Rejected,2022-03-23,2024-12-09,John Chambers,North Christopher,Alabama
+8689907e-e0f1-47d9-8319-8278017e6676,Ashley Schaefer,Home,150935.96,335.42,Closed,2022-01-02,2026-10-29,Christopher Flores,South Katherine,Maryland
+53a05564-1a57-43ac-b475-bc2e72a17950,Mrs. Brittany Perry,Health,290017.62,2125.93,Rejected,2023-12-29,2026-11-13,Brian Young,New James,Idaho
+fbef53d5-2f8d-47f2-ac10-550c4e649eeb,James Black,Commercial Property,240886.69,1345.85,Closed,2021-06-30,2023-07-11,Elizabeth Roberts,North Derek,Louisiana
+e6eb6a07-bcf3-42c4-bf68-1a12dba0dd09,Darren Benton,Health,27822.39,1513.07,Closed,2024-03-07,2027-07-19,Charles Perry,Carolynchester,Vermont
+6248a9b9-9d52-41b4-abfc-7ebce5b0acfd,Gabrielle Smith,Auto,221263.98,4133.29,Open,2024-10-30,2029-12-08,Kathryn Pitts,South Andrea,West Virginia
+0499dfdb-dca8-400b-bea9-8809eee577ba,Kristy Webster,Commercial Property,205588.3,1261.28,Open,2023-10-06,2028-05-25,Barbara Mcdonald,South Robertshire,California
+54afed4a-372c-4509-9de3-49704a44c03d,Taylor Joseph,Commercial Property,168734.57,2670.75,Rejected,2025-03-04,2029-09-18,Dennis Garrett,Scottshire,Maryland
+09c18796-ee90-4042-b6d3-b2f7349e58f3,Christine Young,Business,454988.79,1381.57,Pending,2024-09-15,2030-07-07,Shannon Smith,East Joshuachester,Indiana
+a7380a8e-9354-49a1-8314-9f397e25a65a,Terry Waters,Life,288362.12,2980.47,Pending,2025-05-16,2026-07-02,Steven Dominguez,Carolynside,New Hampshire
+0f8b9bff-18d1-4b3b-b8d7-2e420cf03f76,Dalton Moore,Auto,202441.44,2544.33,Pending,2023-03-24,2023-05-10,Ashley Cobb,Ericksonchester,Iowa
+63b6709c-bd9d-4601-9bc7-7225d5764658,Vincent Powers,Health,340240.88,3687.45,Open,2022-11-07,2023-07-24,Katherine Fowler,East Carrie,Arizona
+0290984e-2f60-4672-bf31-bacbac4537cd,Heidi Turner,Life,269076.02,3273.28,Closed,2022-07-27,2024-02-29,Anthony Young,Courtneyport,Maine
+699fca5e-c017-4d4c-9b52-25b3cfa0ed49,Mrs. Ashley Sanchez,Auto,343222.92,272.3,Open,2020-12-27,2022-05-20,Ashley Davis,Currybury,Nevada
+68ab3367-3611-4f07-8d00-a67a7da29317,Charles Fischer,Auto,247917.63,1896.11,Rejected,2025-07-19,2025-08-29,Tyler Thompson,Port Wesley,Montana
+b26ea678-67ad-4095-be08-a7edf5fdd9d3,Mark Gallegos,Commercial Property,254409.87,3556.26,Rejected,2020-08-25,2020-10-10,Christian Green,East Patrick,Montana
+f2cf8f0d-bc93-4358-89e2-255f69b72ff7,Robin Adkins,Home,485542.08,3814.48,Rejected,2020-11-24,2021-11-21,Travis Lara,East Michellefort,North Dakota
+5ed10090-1944-4cca-96c5-51debe668ed5,Christopher Johnson,Auto,94415.46,226.61,Pending,2021-05-03,2029-05-31,Amanda Cortez,Rodriguezstad,Tennessee
+2a1d700a-6c91-4ab7-ad94-46870ba8d60d,Eric Abbott,Auto,100315.84,2240.76,Rejected,2020-11-05,2030-07-11,Diana Holloway,Oliverburgh,Oregon
+f72cf0c9-3958-4ad8-b8ea-5a3f42e9c961,Kristin Williams,Commercial Property,115996.72,1084.66,Pending,2022-07-01,2023-09-26,James Robinson,West Jenniferburgh,Delaware
+9556b936-76ea-4277-8d00-909a3c97991f,Cameron Miller,Commercial Property,21945.21,556.57,Pending,2021-09-29,2026-07-03,Sheila Cox,Port Brian,Mississippi
+5d5f8648-4017-4425-b1c0-d2a7138bb309,Karen Roth,Commercial Property,334455.5,4429.8,Rejected,2023-07-17,2027-07-31,Debbie Jones,South Brian,New Jersey
+57322cf1-54b9-4855-be65-2e43ba5fe8b8,Ronnie Macdonald,Health,66457.27,4669.85,Open,2020-09-23,2027-03-21,Vanessa Savage,Lake Kimberlyport,Maryland
+55777f0d-7833-4182-981c-e7ee262b9827,Miranda Jackson,Home,308070.17,2584.34,Closed,2022-02-01,2023-01-17,Amanda Garza,Julieville,Vermont
+2a1d9464-7936-43d1-9bf9-f7145a106c7b,Xavier Santana,Auto,221476.56,981.65,Closed,2021-07-29,2027-06-25,Jenny Gomez,East Rhondahaven,Nebraska
+0dd4f3eb-304f-49ed-83c3-d704b938fab4,Crystal Wheeler,Life,169899.09,2269.85,Pending,2025-07-18,2026-07-17,Danielle Jones,Shermantown,South Carolina
+1f1e677d-44c3-400f-b430-dbc9240612ca,Curtis Chandler Jr.,Commercial Property,359571.63,3368.73,Closed,2021-08-02,2022-01-07,Latoya Mccall,Brianside,North Dakota
+b5eac616-11e7-4464-b62b-eef2acf2b75e,Melvin Brown,Health,225602.61,1625.29,Open,2025-03-14,2026-08-05,Joseph Valdez,Dunnport,Oklahoma
+16e963ee-0894-48e1-b731-cea0a5b1d478,Sean Murray,Health,454117.68,934.44,Pending,2024-11-18,2028-10-28,Jacob Ryan,West Timothybury,Texas
+92d4aa27-558f-43b8-bde9-772ba99c2017,Cameron Adams,Business,193637.97,4320.79,Rejected,2024-01-21,2029-09-02,Marie Rodriguez,Williamsville,New York
+49d253c6-4d60-42ab-8eb2-92250bf3472a,Cynthia Dean,Health,122856.71,1207.23,Open,2023-02-13,2023-08-25,Tara Ellis,Danielbury,Wisconsin
+b04b92b5-0e9e-414e-9405-4b2db4874c94,Jennifer Hunt,Health,67587.9,4055.22,Rejected,2023-05-22,2027-09-16,Julie Thomas,Keithborough,Colorado
+ab8411be-572a-4e6b-a39f-686d88ac7fd9,Kimberly Morris,Commercial Property,211017.45,4990.65,Open,2021-05-09,2027-07-06,Jesus Jensen,West Daniel,Illinois
+1054edde-a1a3-433a-895e-ad0a2935a062,Melanie Duncan,Life,446315.28,3377.65,Pending,2020-12-07,2026-02-06,Dakota Combs,Barrettfort,Delaware
+283c59be-86ac-4a2f-87ae-0c3e0a4d9498,Bobby Simmons,Auto,384457.61,1572.86,Pending,2021-11-26,2029-11-04,Eric Mcguire,Port Katrina,Wisconsin
+04cb09c7-98af-456b-9f62-da511284b882,Christine Johnson,Auto,8383.16,4179.17,Open,2025-03-08,2028-06-02,Cody Sharp,Wrighthaven,Florida
+2d49cf39-7c7e-4e14-865c-1ec409db0057,Cynthia Olsen,Health,488002.4,3479.17,Rejected,2022-11-15,2029-01-11,Russell Powell,Bettyfurt,North Carolina
+be6abd36-2980-4ad9-8ecc-d721c7b0df45,Sally Sparks,Commercial Property,127066.43,1508.88,Closed,2024-11-23,2028-07-12,Alicia Carter,Rodriguezburgh,Wisconsin
+2eef7a0a-2aa1-47a9-a824-83837f7420d0,Mrs. Meredith Smith,Commercial Property,91332.98,690.33,Pending,2021-02-24,2022-03-30,Jeffrey Smith,North Tammyport,New York
+cd802503-ac91-4f11-a847-2de5a14a3997,Bruce Peters,Health,265705.7,287.73,Pending,2025-03-29,2030-05-01,Emily Graham,Matthewtown,Utah
+4fbeba56-5264-4eb6-9ad6-7e2314b9582b,Jerry Nash,Business,67370.76,1712.07,Pending,2024-03-19,2028-09-03,Christina Fowler,Lake Jennifer,Virginia
+6fb46b81-18be-499f-9352-500b6e584759,Angela Lee,Home,460600.22,2983.33,Closed,2023-02-22,2029-06-03,Amy Patel,Ayalaport,Nevada
+2e795f05-35bf-4ff5-bce0-53962219c143,Virginia Velazquez,Business,74865.51,4940.61,Rejected,2025-04-12,2028-10-12,Rhonda Scott,Jordanhaven,Minnesota
+82d60c44-7aac-424d-881b-ec52d1fc8710,Craig Hernandez,Auto,182116.12,1728.12,Closed,2023-07-01,2027-03-10,Savannah Foster,Millerport,Idaho
+55261955-0475-4db6-885d-fc17a8f85bad,Sean Collier,Life,64461.27,2761.54,Rejected,2020-10-08,2029-10-25,David Warner,New Jeffrey,Texas
+c9a7eccf-9596-4677-8499-55d61f99a5b9,Kelsey Rivera,Health,322854.58,583.84,Pending,2020-08-19,2027-07-06,Jennifer Barnett,New Rhondamouth,South Dakota
+0e21740b-ed1a-405c-954f-b0fac289942f,Annette Jarvis,Home,82347.56,4088.82,Rejected,2024-07-20,2025-08-02,Thomas Barry Jr.,North Lisamouth,South Carolina
+9174b958-3a6f-44b4-a988-0d39c1f6635c,Jason Adams,Auto,499926.78,4285.7,Open,2021-05-20,2027-08-23,Joseph Velasquez,Port Timothy,Idaho
+ec990c47-4d24-40c8-b8ce-2d40d616dd0f,Carrie Robinson,Health,342963.85,2612.36,Closed,2022-07-21,2027-01-02,Darryl Davis,Nicholasmouth,California
+ab949372-2e44-4b5c-8c38-bdae9c89727a,Terry Cameron,Home,27288.69,2885.32,Pending,2025-02-28,2026-07-05,Christy Gonzalez,Palmerchester,Hawaii
+ff98db30-8576-4278-89fe-ef4f569b8175,Jason Joseph,Commercial Property,331010.47,1050.06,Rejected,2023-05-11,2029-05-28,Robert Martin,East Ronald,New Mexico
+6a88f4ff-2b41-4d0c-890b-8ad12e824982,Angela Mcdonald,Health,493815.37,1541.88,Pending,2020-08-25,2021-08-07,Kenneth Boyle,East Jamesmouth,Delaware
+e1f4f899-1ae1-485d-bb63-a8950924418e,Brandon Smith,Commercial Property,130720.51,3956.55,Closed,2025-07-28,2025-09-03,Allison Wilkinson,North Michael,Pennsylvania
+c8110e78-ada4-4ce9-8bdf-5461617d6662,Mary Mcdonald,Health,322832.84,1343.9,Open,2022-03-24,2023-10-22,Alexandra Pope,Paulburgh,Washington
+9a692a6f-ce4d-4e73-a2ac-829bebbc2cb5,Sandra Soto,Business,487402.05,1247.12,Rejected,2024-04-03,2030-08-11,William Lewis,Michaelview,Vermont
+993fdb92-4e38-4eb5-8337-2f39229cf19b,Nancy Bowers,Business,391779.55,1014.2,Rejected,2023-10-27,2027-06-20,Stephen Jones,Port Carrie,California
+5496b07e-b6a3-4631-ac55-4e853c9e0717,Dylan Nelson,Life,458519.4,1448.33,Pending,2025-03-17,2028-12-21,Meghan Peterson,West Jennifer,Oregon
+8d289609-5a50-4d83-bdce-59cd4e365a2f,Emily Scott,Commercial Property,347061.43,1178.88,Open,2022-09-02,2023-09-03,Jacob Castillo,Pamelatown,Georgia
+d4f7cf15-4e94-4472-b6cb-54ede2f5e0a3,Jerry Stephens,Commercial Property,150790.4,2977.22,Closed,2020-11-15,2022-09-04,Randy Brown,Cynthiamouth,South Dakota
+f32db3d8-6f0d-4cab-842e-3f622ce6c99e,Maria White,Health,332399.15,1106.42,Rejected,2025-02-14,2029-02-15,Erica Graham,Ochoaport,West Virginia
+4ea3008a-a301-4fa9-a144-d3a806023089,Krista Douglas,Commercial Property,397518.6,3609.29,Closed,2023-07-06,2025-06-08,Heather Walters,East Elizabeth,Michigan
+f6a7c0cf-2a7b-4a7d-a59f-1b59afae186a,Rodney Zimmerman,Health,325040.33,1589.87,Pending,2025-01-24,2025-03-25,Larry Harding,East Samuelmouth,North Dakota
+be3f3d65-3742-46b7-ba16-eaa49a52c7a3,David Maxwell,Home,54778.46,803.15,Pending,2020-12-07,2029-06-30,Ryan Carter,Lake Ernest,Missouri
+555e0115-8435-48f5-ac63-ddecd0516e5a,Helen Alvarado,Life,284384.57,3389.53,Rejected,2025-04-09,2030-07-10,Natasha Davis,Tiffanyhaven,Florida
+d054f60a-1df9-4246-a77d-562a00627ea3,Megan Michael,Life,432643.51,3501.1,Closed,2025-06-17,2027-01-14,Barbara Long,Smithfurt,Iowa
+fcfc2fec-4134-48ce-b476-316ddacd7289,Traci Sims,Life,73230.57,2903.11,Pending,2022-07-27,2029-08-16,Nathan Edwards MD,Ericaburgh,Oklahoma
+3f94a0c9-1bb1-45a7-af3d-244245527793,Justin Stevens,Health,76679.79,4199.46,Pending,2025-05-08,2025-10-30,Michael Wong,Smithland,Louisiana
+6ee932bb-4496-4268-9a28-abf5f3f2efe7,Thomas Brewer,Health,299760.53,3079.58,Closed,2025-02-17,2025-06-24,Miss Amanda Bennett PhD,Kimberlyberg,Massachusetts
+deee93e9-9694-4259-b910-b6f46e8d15e6,Ryan Meza,Business,180390.2,1771.35,Closed,2023-09-20,2028-10-22,Matthew Simpson,North Richard,Missouri
+64552290-c7ba-42a9-8a62-f5cae8749a9b,Nicole Blackburn,Home,485458.89,928.54,Rejected,2025-03-03,2028-03-05,Robert Richardson,Kylestad,Texas
+d4d30830-339a-45a2-9b15-6b166fb3d6c6,Helen Barrett,Business,403445.49,1728.4,Pending,2022-05-20,2025-04-10,Carl Taylor MD,New Christopherville,Wyoming
+4b5587b4-72db-4b88-80bd-d1ee76f81345,Deanna Rios,Auto,259060.67,4146.0,Rejected,2022-12-30,2023-12-06,Charles Garcia,West Cynthiastad,Pennsylvania
+426032d5-4f59-4c99-8346-1e8cf06d2d4c,Ashley Brown,Health,469190.78,1559.41,Rejected,2023-06-16,2028-04-26,Margaret Wilson,Bushside,Montana
+fea925ae-ea31-4fc8-9723-d6c42961a61f,Dr. Johnny Clarke,Home,384094.11,3277.97,Pending,2022-07-22,2023-08-27,Jennifer Allen,East Shaneburgh,West Virginia
+2a7d6f4e-8b23-4d35-8b5c-49eace9757a7,Edward Stewart,Health,252533.89,2703.38,Rejected,2022-12-22,2024-04-27,Mrs. Julie Knight,Claudiachester,Wyoming
+be02a5df-d6b2-4ea2-a748-e11ed3c42839,William Cochran,Life,443824.64,3447.3,Pending,2024-12-30,2026-04-05,Mr. Todd Brown MD,Garciamouth,South Carolina
+f9afbb22-4d71-4159-b42b-ad2aabff0145,Amy Ford,Home,336418.02,4949.03,Rejected,2025-05-17,2026-09-06,April Nelson,East Alexandertown,Kentucky
+c10a1c47-9719-48b2-b04e-57e0e67155dd,Luis Hall,Commercial Property,329168.28,4489.69,Rejected,2023-11-10,2029-12-07,Michael Brown,Loriport,Pennsylvania
+4747e917-3339-4e2f-a93b-d0d10e4c8795,Brian Cherry,Business,144391.99,1109.71,Closed,2021-04-28,2026-07-16,Edwin Prince,Christinaside,West Virginia
+067e0024-69bd-4909-9cec-ffe39043662d,Krista Davis,Health,488388.54,931.59,Pending,2025-07-08,2025-08-30,Charles Baker,North James,Hawaii
+25dddbfe-4d62-45e5-ae69-b5f3563e746b,Marcia Martin,Business,165782.49,289.31,Pending,2025-08-13,2028-01-11,Alyssa Jacobs,Shannonshire,Massachusetts
+bf9435f0-b62a-4033-af44-21e65c24ff99,Stacy Duncan,Commercial Property,138502.63,1223.81,Open,2020-12-18,2028-04-16,Nicholas Thomas,Mendozabury,Iowa
+d107ef96-8794-4fda-b8f4-ee1bbbdf3941,Lori Whitehead,Life,183958.03,3412.17,Closed,2024-01-17,2028-01-28,Christopher Ingram,East Amyton,Utah
+dfbe4a82-4271-4014-8db5-1bc59928cd19,Jonathan Erickson,Auto,213196.14,4093.16,Pending,2025-06-21,2029-03-18,Debbie Decker,Williamburgh,Maryland
+4f6697cb-fdd1-4a04-a0cc-698c34b8029b,Renee Richardson,Commercial Property,450550.73,3684.2,Rejected,2021-09-29,2026-09-16,Logan Thornton,Lake Tammyburgh,Wisconsin
+c1609fde-29a4-4b9d-a948-2952add56b99,Kathy Luna,Home,273638.54,1572.28,Pending,2024-07-13,2025-02-09,Sheila Wallace,Lake Ann,Virginia
+6a0fb0b7-c480-4780-8acf-e3422ecb769b,Steven Ortiz,Health,289335.19,3646.74,Pending,2024-08-08,2027-04-07,Stacey Cooley,Millermouth,Iowa
+eb67b040-79e7-40ff-af15-5db0d875e80f,David Jackson,Health,225508.02,598.12,Rejected,2025-07-26,2026-09-02,David Quinn,Rebeccabury,Alabama
+8207d54a-4cb4-4b87-9e25-30925dfb413e,Patricia Richard MD,Home,452732.24,312.16,Closed,2020-11-15,2027-04-06,Teresa Ramos,Blackburgh,West Virginia
+05657645-469d-4594-922f-4fc8a7cf3f2f,Michael Sullivan,Life,305479.47,284.87,Closed,2021-12-08,2023-09-06,Kyle Meyer,Ruizville,Georgia
+a6f83dca-0832-4baa-b378-080d5d755488,Tiffany Hall,Health,382656.49,2597.16,Pending,2022-11-06,2024-05-24,Robert Roberts,Christinemouth,California
+263635d9-f1f4-4995-8fce-7f07ac6456a8,Victoria Valencia,Commercial Property,377853.09,719.41,Rejected,2024-09-14,2026-06-02,Cheryl Francis,Youngstad,Louisiana
+f5871dcc-7ffd-4e60-a665-7e72bd318bef,Jason Johnson,Commercial Property,384978.24,1886.55,Closed,2024-07-27,2028-12-25,Gina Davis,North Jeremy,New York
+1c1e8b09-baa1-4a40-be0b-a29af458a9de,Desiree Oconnell,Business,259299.72,2634.75,Open,2023-05-28,2029-08-27,Joy Anthony,Richardstad,Vermont
+11a03d4e-bfa8-4d85-962b-f841c0be542f,Michelle Davis,Auto,403993.03,2558.62,Pending,2023-03-16,2030-04-18,William Howard,West Christopherfurt,Pennsylvania
+fa03b27e-d249-4f6b-93c0-d84d79c9e354,Kimberly Shepard,Commercial Property,499149.74,1272.49,Closed,2020-11-10,2027-10-30,Katie Williams,Clarkmouth,Illinois
+1c0cb008-54e2-4ec1-8fe2-e9d0c10de009,Scott Shah,Commercial Property,398961.43,2250.25,Open,2025-04-10,2025-08-27,Justin Fuller,Richardberg,North Dakota
+36c371dd-a085-4371-88f2-905d3197dbfd,Maria Kennedy,Auto,51936.58,2955.97,Closed,2022-08-17,2024-09-18,Jennifer Fox,Stevenburgh,Wisconsin
+5958ab6c-7b39-4e23-8724-acacce00a4af,Tammy Leon,Life,235713.58,4385.39,Closed,2025-01-21,2028-02-19,Bernard Boyd,Lake Mikaylaton,North Carolina
+429c9c20-9a66-4ebf-b39a-faceb4fb8bdf,Mark Martinez,Health,17473.77,2627.04,Pending,2025-07-07,2030-01-13,Justin Frey,East Jamesville,Louisiana
+1ab6f484-645c-4610-b2c6-731bd0b35a7a,Hannah Krueger,Auto,420694.65,2870.02,Open,2023-05-16,2025-03-13,Sonya Castro,Hannashire,Connecticut
+02137ccb-874c-4142-8885-31b1ed0d2695,Matthew Potts,Auto,164488.99,4337.42,Closed,2024-05-29,2026-04-30,Jennifer Cooper,Hernandezfort,New Hampshire
+8d33247a-4609-4c15-8a47-1257a577043b,Kayla Montgomery,Business,419689.51,823.25,Closed,2025-01-11,2026-09-29,Kim Simmons,New Lindahaven,West Virginia
+7d432956-29c7-4bda-ac4c-c1ae8dd143f1,Denise Green,Commercial Property,202299.52,1673.61,Closed,2022-02-15,2025-10-10,Megan Hogan,New Erica,Delaware
+b7354df7-43c9-4d5e-b71c-860a38221d76,William Hunter,Home,297940.17,2704.78,Rejected,2025-01-15,2029-10-06,Maurice Barnes Jr.,Port Kara,Kansas
+ea452eed-0e69-4b75-9777-6a8fd8e4ad95,Jacob Perez,Commercial Property,471229.16,216.85,Open,2020-11-23,2021-08-09,Michael Porter,West Jacobstad,Tennessee
+71c0f856-570e-4555-bcd5-af654fd94fef,Alex Ryan,Home,68654.69,4836.07,Closed,2021-11-02,2022-10-06,Jesus Crawford,Melissaborough,Alaska
+84a0dc38-fa55-495c-9eea-45e4b3e9a483,Kayla Anderson MD,Home,480137.64,2879.5,Closed,2022-11-11,2029-07-02,Jake Miller,South Christopherfort,Missouri
+b46716d7-7e05-495d-8d3b-1d178d60d85e,George Bradford,Commercial Property,285015.43,3833.0,Open,2023-02-26,2024-01-23,Caleb Powell,Margaretmouth,North Dakota
+334b1974-de01-48a7-9178-6030d270f16f,Cody Skinner,Health,492661.31,4150.87,Closed,2023-11-12,2024-12-14,Alex Travis,Johnsonview,Oregon
+622ceea5-9cfa-408e-a5b3-6513838d53b2,Megan White,Business,224303.44,959.05,Rejected,2022-01-13,2029-03-21,James Ramos,Waltersville,Wisconsin
+d902f7cb-14ae-4f1b-a523-221877e3f482,Lauren Sawyer,Life,250651.94,2616.96,Pending,2024-11-07,2027-03-22,Robert Flynn,East Michaelborough,Arkansas
+ef97bb70-7c88-4d1c-af2c-d75936da9acf,Michelle Watts,Home,81959.44,2200.21,Pending,2022-06-11,2029-04-09,Kenneth Reese,South Cody,Texas
+a8c1cf6a-6971-4550-9381-349a6b21496f,Sara Herrera,Auto,328620.83,379.35,Pending,2024-06-07,2026-06-21,Linda Cooper,Robertport,Kentucky
+bf6a1e46-999c-4a94-9d44-cd7e52b9250c,Leslie Thomas,Home,250169.98,3506.37,Open,2023-04-26,2027-03-16,Sabrina Kemp,Matafort,Texas
+d212477f-8789-4253-87ae-08f7b8d28473,Christopher Martin,Home,201620.13,4576.07,Rejected,2021-11-15,2022-07-27,John Johnson,New Jennifer,Oregon
+3548a1c1-7fa5-4e71-86ad-1aadb64912ee,Nicole Thomas,Commercial Property,151553.77,678.29,Open,2022-02-07,2028-09-11,Michael Thomas,Janiceview,Indiana
+084bd761-0991-466c-8cc2-0220e1e14c30,Sherri Garcia,Life,160788.88,2883.68,Rejected,2023-08-14,2027-05-11,John Adams,East Gina,Rhode Island
+2c7e1994-9c20-44c5-a7ff-20c0bce52480,Michael Thompson,Auto,5630.29,3632.65,Rejected,2020-12-21,2021-10-07,Amy Quinn,Christopherfort,Maryland
+392af610-662d-47da-8de1-ffac73607614,Ray Tucker,Home,482708.24,1679.45,Closed,2025-05-02,2026-07-23,Elizabeth Jensen,South Jeremy,North Dakota
+f8adeda9-fb5b-4d8c-9840-066bf5cf6890,Alyssa Jenkins,Auto,89053.99,1730.53,Rejected,2022-06-24,2024-06-29,Monica Robinson,Bentonside,West Virginia
+52714481-b698-4863-96f2-22c3e3271e66,William Burke,Auto,298673.43,2655.56,Rejected,2020-08-25,2021-10-27,Kathryn Ortiz,Paulville,Missouri
+956b6027-cc10-4419-8ec4-08f96e6b5407,Kyle Baker,Business,102637.62,3075.02,Pending,2022-07-03,2024-03-05,Edward Vasquez,Angelatown,Indiana
+18831fc9-826d-48fb-9562-a1556562f119,Alexis Tran,Business,168684.58,918.12,Rejected,2020-08-20,2028-04-08,Lori Cline,Melissaland,Wyoming
+a0d37be0-a591-450a-9ab1-09fd2a9cf5a4,Patricia Jones,Home,220252.35,390.77,Closed,2021-03-11,2025-02-22,Daniel Gilmore,New Kayla,South Dakota
+8f22f965-0792-4f64-87df-3bbee30a6d4c,Virginia Nguyen,Auto,81779.83,1559.09,Rejected,2024-01-06,2024-06-20,Kevin Fletcher,West Samantha,Alabama
+eb826b14-ddef-4b9d-832f-2435e34f8add,Sarah Richards,Health,188155.08,1483.35,Open,2022-08-17,2025-10-23,Allen Maddox,Lake Johnhaven,Delaware
+cfa089ba-a6f1-4782-9bf9-31322cca54e5,Lydia Olsen,Business,412953.41,1195.22,Open,2023-05-25,2028-04-09,Jessica Flores,South Paige,Wyoming
+5ae11b1e-c90b-44f6-82a8-f65760878ca3,Wendy Smith,Health,215251.32,2865.53,Open,2022-12-14,2024-10-10,Joshua Brennan,Jennifershire,Tennessee
+885bfa33-14ad-40b2-bde0-f21789e8c089,Jessica Jones,Health,399205.05,1168.25,Pending,2021-07-02,2029-12-18,Donald Mcdonald,Kaisermouth,Georgia
+0cc9cc58-d898-4819-98cb-548a60ffddac,Mike Sanchez,Auto,43312.33,787.69,Open,2021-03-14,2022-01-10,Jeffery Oconnor,Clarenceshire,Wyoming
+be925cad-6684-4ac3-bcfe-0d8e87aa955c,Cynthia Williams,Life,407106.31,770.23,Rejected,2022-05-12,2026-06-24,Carol Weaver,New Brandonshire,South Dakota
+f1882e7f-14f7-4021-a93b-88937f7fe026,Tiffany Drake,Health,256083.94,373.27,Rejected,2021-07-02,2023-07-08,Tracy Terry,Garrisonburgh,New Jersey
+ca92e9e8-3ab6-4388-9a14-c5217a01790d,Sarah Taylor,Commercial Property,30007.39,3919.45,Closed,2022-04-23,2027-09-06,Michael Stephens,Smithburgh,Montana
+e528c190-da5f-4998-8c2a-260606d925ca,Abigail Cox,Life,421666.69,1581.79,Closed,2023-10-10,2026-04-18,Jennifer Nguyen,Robynland,Alabama
+643cb53c-131b-49e7-aeef-052f3c7d13b1,Brandy Preston,Home,468248.98,2260.71,Open,2024-12-20,2030-04-30,William Burke,Barnettstad,Washington
+efd8f1dd-7744-4efa-9eaa-1cae0b9244c9,Corey Snyder,Health,354294.52,3439.15,Pending,2024-06-27,2024-07-26,Christopher Scott,Nicolechester,Tennessee
+b65b7220-64f5-4622-8d15-e6cd315bcd3a,Christy Potter,Auto,127394.49,3083.54,Pending,2024-09-17,2029-04-03,Elizabeth Hill,Marquezmouth,Ohio
+3c3ca422-e304-4bb0-b271-ab676909faa4,Melanie Rodriguez,Auto,94886.74,395.93,Rejected,2023-11-16,2026-10-04,Shannon Luna,Lake Richardshire,Texas
+1212f366-f1e6-413f-838f-c6db309567ed,Dana Smith,Health,291818.91,1101.93,Pending,2024-01-25,2028-10-02,Amber Heath,Andreaport,Oregon
+5e3dd104-8734-466f-a7d2-fa9693593ff8,Elaine Gates,Health,332649.11,1774.52,Closed,2024-10-07,2024-11-08,Timothy Mcmillan,Port Matthew,Indiana
+ab104db7-1fb3-437b-9e53-04247998bc22,Jillian Wagner,Commercial Property,85888.44,731.28,Pending,2023-03-24,2024-05-22,Taylor Wells,Munozstad,Kentucky
+eb5bcd0d-7ee7-4cff-ab94-05ee6e825d78,Regina Bautista,Life,70602.08,2355.93,Rejected,2023-08-26,2026-12-10,Ashley Wood,Port Erinmouth,Georgia
+61cdb16d-a5a3-4417-9e38-56958d88d626,Jean Stewart,Commercial Property,228115.1,1817.28,Rejected,2024-11-27,2028-05-24,Meghan Acevedo,Lake Haleyport,Arizona
+6e7a56b6-7ab0-47d5-8b59-d297298c8ac5,Ryan Wood,Health,425957.3,2117.19,Open,2021-09-19,2023-09-22,Michael Miller,South Sabrina,North Carolina
+dd6e171f-202c-4de7-bfce-addc08a8bfa5,Seth Gregory,Home,397585.45,4999.33,Rejected,2023-10-22,2025-07-23,Mary Jimenez,Sharimouth,New Jersey
+81723600-ee78-433f-9d2a-cd3d1f61d789,Mr. Cameron Fischer Jr.,Commercial Property,455865.98,3596.77,Open,2021-08-18,2026-10-03,Elizabeth Brown,Lake Hunterton,Louisiana
+886f9a7e-e6a7-4465-8896-3ef9968bec0e,Valerie Richards,Life,126129.86,227.47,Rejected,2021-12-01,2027-02-22,Gary Reed,East Angelamouth,Mississippi
+831bc9fb-cc6b-4b51-af66-ced067c832b9,Jennifer Khan,Business,120211.25,1470.93,Closed,2022-01-19,2023-03-30,Stacy Martin,Port John,Maine
+3f301a26-43dc-4fe4-b203-dbc33611d3bc,Kathryn Ward,Commercial Property,255884.01,344.24,Open,2023-10-05,2028-05-27,Christian Scott,New Debbie,Virginia
+3fa1f92a-5f64-460f-a4c2-61f8903b3ad1,Amber Banks,Health,343865.67,3045.26,Closed,2024-08-11,2026-05-16,Kyle Hull,Port Heather,West Virginia
+a58fe877-5ad0-4320-8e98-f8f743510e03,Jorge Newman,Home,152221.72,1141.56,Closed,2025-08-12,2025-11-19,Natalie Maldonado,Lake Annettemouth,Idaho
+13654716-61a1-4aa2-b440-3bc273c357d0,Nicholas Yang,Auto,405826.9,1195.97,Open,2023-02-22,2030-05-27,James Kirby,Port Kimberlybury,Mississippi
+b20670f1-0883-4820-b2aa-2d3e9e0baca4,Erica Jones,Health,134690.46,4225.26,Rejected,2021-11-11,2029-06-02,Jeanette Jones,Loweryfort,Alabama
+d63c1bc7-18c1-499f-8aec-0a818670e5af,Mark Morales,Health,274881.49,4666.59,Pending,2021-05-14,2027-12-31,Crystal Levine,Mckinneyton,North Carolina
+df1ad11d-870f-41d0-b89f-8f8a602de3c8,Erin Jacobs,Auto,310634.31,4988.26,Pending,2025-05-03,2030-08-13,Diane Palmer,Port Sydneytown,Iowa
+64514c57-ca2f-458f-a06d-81c9db6117d1,Dr. Gloria Benson,Business,20481.71,1695.18,Pending,2022-02-15,2029-06-09,Kevin Lewis,Jackieport,Wisconsin
+b2559b11-38f1-4b48-a741-6533197b6924,Felicia Washington,Life,16830.42,2151.48,Rejected,2021-07-08,2023-10-29,Christine Gonzalez,West Danielberg,Virginia
+f7a871d0-db34-45c4-a0d3-29a7d0734c51,Christopher Johnson,Health,475965.68,280.92,Open,2022-11-08,2030-07-21,John Liu,East Mariaberg,New Hampshire
+bfba786b-ade1-47ff-9521-de12c42bdd42,Jamie Peterson,Commercial Property,34035.48,1354.86,Open,2021-09-28,2023-02-03,Matthew Smith,Lake Brandon,Wisconsin
+041ff608-db0d-4b95-bc9d-40964ccfa207,Kimberly Rodriguez,Auto,55334.34,4017.52,Pending,2021-05-30,2023-10-02,Duane Johnson,South Christianmouth,Kentucky
+7b576047-9202-4687-9c47-7fc3786b3538,Meghan Hinton,Business,278717.04,1673.01,Closed,2023-07-21,2025-10-31,Alexandra Ramirez,New Donaldborough,Indiana
+3a80e42a-c796-44e5-877f-0665519cfdf2,Christopher Collins,Health,288737.78,2163.66,Open,2025-01-26,2026-08-16,Barbara Silva,West Richardfurt,Connecticut
+8deda51b-0d97-4d85-a5e3-94ce257fae52,Anita Blake,Commercial Property,332089.53,2683.2,Closed,2021-08-22,2023-10-15,Stephanie Martin,Brittanyfort,South Dakota
+7b92951f-5e25-4295-99b2-8cdc78cb0bd0,Jennifer Murray,Commercial Property,44573.11,2936.14,Pending,2024-09-20,2025-06-23,Kimberly Miller,Lake Elizabeth,South Dakota
+b2abb90f-e65a-4008-9ed7-957a3acd82ec,Daniel Chapman,Home,396530.68,572.77,Open,2022-12-06,2029-10-24,Lori Smith,Smithborough,New Jersey
+bda6cc61-552f-4b49-ad13-b65eb665d9e7,Paul Serrano,Commercial Property,343651.23,1693.0,Pending,2021-02-23,2023-06-01,Jeremy Beltran,Port Roymouth,Mississippi
+05d8172a-0446-4425-901b-f997679742ee,Katherine Martinez,Life,68832.0,4467.99,Open,2022-09-05,2023-05-02,Kimberly Brown,Port Lisaton,Wyoming
+a9c4dcae-cd14-4c1a-ba5a-c4122756ffbc,Aaron Kelly,Commercial Property,143495.29,2387.98,Closed,2022-01-09,2022-12-20,David Harvey,Amyfort,Iowa
+9bfd6ba9-2e95-4358-b9ac-8df777cd62c0,Don Martin,Commercial Property,453141.96,3154.75,Pending,2021-01-21,2028-11-10,Wendy Mcintosh,East Erikaside,Texas
+6f0c6073-b4c0-4d7d-bd9f-d2659078bc5a,Daniel Simpson,Health,86461.4,4233.96,Pending,2024-10-17,2027-05-06,Lisa Reed,Floresville,Iowa
+cfe48e64-d563-4811-a4a6-eff986554e85,Matthew Woodard,Auto,371829.78,3532.81,Closed,2021-10-29,2025-05-14,Stephanie Robertson,Lewisstad,Alabama
+3a7eda38-a3b4-41b1-a502-0cf1555c7048,Lawrence Hampton,Commercial Property,259343.28,919.18,Pending,2021-01-19,2027-11-27,David Rich,Larsonport,Alabama
+2cd69dcc-7e09-434f-b085-014f38ab42a1,Holly Gonzales,Commercial Property,250171.18,3414.59,Rejected,2021-09-16,2029-06-24,Jonathan Oneill,New Christopherbury,Washington
+f5f97a60-19a1-44d3-be6b-51f23bdd2cae,Raymond Monroe,Life,490733.83,4002.19,Closed,2025-03-12,2026-11-09,Lori Lopez,North Jack,Michigan
+8dd575a4-7e84-4d1b-ad84-280c80967471,Thomas Jackson,Business,211101.06,2960.94,Open,2024-10-01,2025-07-27,Melissa Graham,Robbinsburgh,Alaska
+313e8001-b52c-49ac-9253-393ff63e0d73,Tara Wood,Health,496328.69,258.56,Rejected,2023-11-16,2029-11-08,Randy Burke,North Calebhaven,Nevada
+799da47f-1f9c-4e75-8121-02b2f6b80a7d,John Escobar,Home,215842.03,3360.38,Closed,2023-12-11,2026-03-14,Teresa Chandler,Kurtburgh,Delaware
+822b0d79-9f83-490a-9134-1824a5584e51,Stephen Hernandez,Auto,409736.96,2235.22,Rejected,2022-01-27,2022-07-29,Michele Moon,New Brad,Massachusetts
+dd7e92f7-ab0c-437e-a1e3-7bcd04e62329,Michael Ibarra,Life,273905.63,1771.22,Closed,2022-06-27,2029-06-28,Scott Patterson,Lauraton,Mississippi
+ae57e8f6-7d3a-4d42-94e9-8cfb385f9f28,Monica Cook,Auto,120549.74,2473.92,Pending,2025-07-25,2027-01-09,Carrie White,Lake Dannyhaven,Kansas
+e516bd03-1e38-42ce-92cc-1b159a2bda94,Rickey Best,Home,267459.9,1716.42,Closed,2023-02-24,2026-09-03,Michelle Smith,Huertashire,Idaho
+87a8b66f-2938-4c42-8a9b-9c9dc2d4a10b,Jessica Braun,Life,141834.23,3895.67,Closed,2021-04-22,2025-08-15,Andrew Peterson,Williamstown,Oregon
+dded640b-7be5-4a3b-bac6-271bf736bac1,Eric Chen,Health,48521.76,2336.4,Pending,2021-07-02,2028-07-16,Angela Duran,Cindytown,Hawaii
+b003121b-dc8d-44ff-aa5b-e82969855e14,Nathan Fleming,Home,32475.11,670.42,Rejected,2022-06-14,2024-12-05,Andrew Russell,Davidstad,New York
+b2c19770-5e00-4038-88c3-1476f814003e,Barbara Howe,Home,160873.14,3919.41,Open,2024-12-17,2026-11-14,David Patterson,Nortonbury,Maine
+a473d338-0975-426b-aaba-1d3902c53929,Ryan Hampton,Life,461050.72,2147.03,Closed,2025-08-02,2027-02-22,Carolyn Mooney,Jessicaland,Tennessee
+01523725-9238-42f1-953a-c1ea911bb6dc,Andrew Marshall,Business,110161.98,1131.96,Rejected,2023-04-25,2023-05-24,Gregory Bailey,Port Shannonville,North Carolina
+87a6de50-1477-43c3-b0a4-e1b3e28f8532,Gerald Bautista,Commercial Property,210953.59,4304.21,Closed,2023-08-16,2028-11-04,Tina Herrera,Lake Angelbury,Connecticut
+d2f9e345-5523-4de8-9b2b-75c6bd30e30b,Nicholas Dunn,Auto,200136.93,3422.86,Rejected,2021-11-23,2026-01-10,Rodney Watts,North Erinport,New Hampshire
+9d3b480c-f35b-4419-9159-90473cc596e3,Mrs. Brittany Ellis,Commercial Property,16204.25,2201.47,Closed,2021-03-21,2029-11-27,Timothy Olson,Lisabury,Rhode Island
+ef9f7eec-05a8-4a99-9b52-9a8805ad3d07,Valerie Weber,Health,355114.86,2456.39,Open,2022-10-11,2026-01-24,Amy Reynolds,Port Tonyaton,New Hampshire
+fc174edb-d509-476e-9cfa-335ad2c7d1bf,Jessica Shaw,Life,264248.84,1938.81,Pending,2022-02-27,2025-01-01,Michele Murphy,Crawfordfurt,Maryland
+148c7942-72d6-49b4-8713-e697e2037b43,Antonio Estrada,Auto,366058.56,1472.72,Pending,2024-03-25,2026-08-10,Nicole Short,New Ruthfort,Maine
+c0f2502d-f155-471f-b8ed-a420c8b6505f,Thomas Martinez,Life,226399.46,4204.47,Closed,2023-04-30,2025-01-23,Suzanne George,South Margaret,Oregon
+91cb5a7f-a903-4874-b828-352a7fda2f04,Pamela Sellers,Commercial Property,444619.3,3305.32,Closed,2023-01-01,2023-07-02,Michael Gregory,Lake Shannon,Arkansas
+058ca7d5-c06e-4250-98f4-ccc1f063ed9f,David Martinez,Business,184232.08,3645.25,Open,2021-12-29,2029-07-11,Andrea Evans,Michellemouth,Kansas
+e71e2933-bf31-4e8b-9514-a96d5b27712e,Robert Green,Life,183240.46,403.46,Rejected,2022-11-09,2024-01-12,Bradley Lewis,Dannymouth,South Carolina
+68afc1e9-8192-458a-9e51-be513df70787,Christina Wright,Life,348629.24,4069.82,Rejected,2022-12-05,2027-10-26,Ashley Casey MD,Port William,Nevada
+769063e7-3a25-4570-b0ec-9e097dbb78ef,Tara Chambers,Health,243568.07,881.66,Closed,2021-12-27,2026-02-03,Claudia Rios,Leeville,Oklahoma
+065e6be7-fbec-4afb-aa3f-df396bc31f5b,Stephanie Harris,Business,146217.77,2669.71,Pending,2023-02-28,2030-05-22,Alison Wells,Richardshire,Indiana
+23506b40-ae06-469d-8211-25d29735090d,Samantha Weber,Health,133796.08,2798.27,Pending,2023-10-21,2024-07-21,Jesse Dickson,Brittanyside,Delaware
+0ea9f6ce-3ea6-4337-9754-f77e74c86498,Rachel Graves,Business,499681.27,2872.58,Open,2022-06-05,2030-03-25,Matthew Powell,Robertchester,Massachusetts
+c9ed48e2-a535-42de-a357-b3c3532dbdf1,Kimberly Brown,Commercial Property,430166.26,1010.83,Open,2025-06-26,2025-09-19,Amanda Hatfield,East Benjamin,Illinois
+222b19c8-76fb-494b-aabe-57dd0cc7e51c,John Anderson,Commercial Property,302119.49,4234.22,Open,2024-03-10,2024-03-14,Anne Peters,Sophiafort,Tennessee
+60dc2d17-d974-4764-ba2a-ce003efd3ff1,Donald Rogers,Auto,123454.6,4605.81,Open,2020-09-09,2023-08-31,April Bailey,Port Lisa,Washington
+c68d6fdd-6141-4f7a-b486-cea7ce3d0505,Tristan Cruz,Auto,229337.32,2211.12,Pending,2022-01-22,2026-01-20,Timothy Moreno,Port Larry,Mississippi
+8df23354-c30f-4b95-a157-ccacc668a282,Danny Rhodes,Home,328848.9,4770.1,Open,2025-03-12,2029-04-04,Katie Martin,Vaughnside,Washington
+8de409df-f69a-40e0-94cb-fbd8c6cac189,Kevin Smith,Commercial Property,383559.35,3486.46,Closed,2025-08-06,2025-10-25,Timothy Sullivan,West Miguelbury,Louisiana
+1406b9a0-2e46-4c98-b720-77e64b77cd26,Julie Miller,Commercial Property,361433.94,4313.27,Rejected,2022-01-25,2029-03-01,Ronald Williams,Richmondfort,Wisconsin
+98e92b96-0b59-4da9-bb72-e2c03803437d,Veronica Sanchez,Commercial Property,441296.82,1743.27,Closed,2024-09-11,2028-07-10,Sydney Golden,South Jerry,Kentucky
+09261486-d5a8-466a-b6bb-670b0a0bdd42,Meghan Miller,Commercial Property,374338.05,3128.98,Open,2022-03-28,2028-12-23,Matthew Wagner,Brianbury,North Carolina
+876ccdf7-401d-41e1-9f76-0ce96ab45379,Michael Brady,Health,475452.41,2566.18,Pending,2024-05-28,2029-08-16,Rose Patterson,East Matthewmouth,Arkansas
+fde0ebe3-fae5-4629-88b3-f54494059478,Chris Day,Business,64346.64,2227.48,Closed,2022-04-28,2025-03-09,Gary Franklin,Sanderston,Wisconsin
+062ae3b1-b724-4c25-8b59-f4ca0e75dc6f,Hannah Thompson,Business,333583.5,4514.33,Closed,2023-02-10,2024-08-12,Joseph Williams,New Raymondport,North Dakota
+d75de3bb-ceab-4007-9b21-2a9dd77fb5b0,Oscar Frank,Business,441075.21,4619.49,Open,2025-02-13,2028-03-09,Shane Jacobs Jr.,North Roy,Maine
+b49de5d7-23cb-40d1-b8fa-f405343b2a86,Samantha Alvarez,Business,164913.35,3796.21,Closed,2023-04-04,2025-10-24,Zachary Brown,Zhangmouth,Mississippi
+c29661e6-0536-44f4-911e-36c7781066f7,Martin Matthews,Home,367620.89,4159.2,Pending,2021-10-19,2025-03-11,Sheryl Boyer,North Jacob,Nevada
+6c21fcf8-c7a5-4c16-ad9e-b60dfb8887f5,Eric Parker,Business,289766.63,1750.81,Open,2025-03-22,2026-05-08,James Werner,Scottview,New Mexico
+bc1a43ae-cd00-4216-94d7-7cf76e2288f0,Mercedes Hebert,Auto,218024.21,612.03,Rejected,2025-03-20,2030-08-12,Matthew Clarke,West Laura,Maine
+e991fb8b-a719-44d2-a43f-824f5f5509bc,Eric Jones,Life,26190.56,3013.65,Open,2023-01-10,2026-12-01,Maurice Tucker,Joelmouth,Kansas
+3480fc01-c698-4192-a22d-ca53fb3e8893,Tammie James,Home,79812.18,3598.71,Rejected,2022-04-18,2022-10-07,Benjamin Berger,Cindyhaven,Illinois
+0aee3082-ef65-464b-bc18-1b54b393d664,Gabriel Frazier,Health,139870.45,1532.77,Open,2021-11-13,2025-03-02,Connie Cook,East William,Oregon
+0f6da56d-0050-46d6-9adb-86c7ae9d7fe5,James Anderson,Auto,107973.1,2821.55,Pending,2025-05-26,2028-06-18,Daniel Davis,North Justin,Maryland
+fc43fb58-e998-49e3-8be6-84f8e4bbf8f1,Brian Richards,Health,496659.12,1265.73,Pending,2021-06-29,2021-07-29,Kelly Dyer,Lopezville,Maryland
+cc0eec69-9fb8-4722-8870-5414b9aad1a4,Carla Horne,Commercial Property,242538.2,1889.22,Closed,2025-05-11,2030-03-31,Jeffrey King MD,Aaronland,Ohio
+ac8f125e-06bf-46dd-b29e-15cbcb51eb07,Michael Bender,Commercial Property,39952.66,3810.67,Closed,2023-09-27,2026-01-12,Michael Murphy,North Nicole,West Virginia
+e768d350-9fa1-433b-b621-79ec08c31478,Kara Garcia,Life,89443.83,527.38,Closed,2023-12-29,2025-07-02,Cynthia Everett,Deborahside,New York
+b6710a26-f062-439e-9cec-75bf177b0968,Connie Taylor,Home,89056.67,3178.17,Open,2024-12-12,2030-06-15,Eric Vasquez,Debrafurt,Utah
+8447dd80-34c0-439b-a4db-fc1308db1052,Jessica Boyer,Commercial Property,39850.16,3489.26,Closed,2024-01-03,2028-12-16,Andrea Simpson,Richardsonstad,Hawaii
+0a96826b-c475-4291-a39f-fec52d32debb,Leah Young,Commercial Property,388728.31,717.75,Open,2023-07-24,2023-09-29,Melissa Boyer,Drakefort,Oregon
+ffbd9b6e-1d16-4deb-9a3b-cfa28872f496,Laura Brooks,Home,167726.09,3616.69,Open,2025-03-25,2025-05-07,John Kaufman,North Charles,Florida
+6053416c-d4ed-4b3f-bbd6-b249931ff946,Thomas Parks,Auto,361546.14,4906.61,Rejected,2023-02-22,2028-10-05,Clayton Crawford,Port Jillianburgh,Oklahoma
+e66bc61d-35f7-41fe-953d-b26be3c3e59a,Bethany Harrington,Auto,449194.44,1231.33,Pending,2022-04-21,2026-10-20,Cassandra Moore,North Brandonport,Oregon
+b8ef814f-1813-4451-81f1-093bde0bec9c,Heather Ryan,Auto,480817.01,2501.02,Pending,2023-09-10,2029-02-21,Sarah Solomon,Weaverborough,Nevada
+9b12e96c-dda5-441a-8b37-3cf5435f928e,Amanda Lloyd,Health,192850.01,1785.51,Open,2024-09-15,2029-10-07,Jonathon Graham,Port Philliphaven,Kentucky
+5970cca4-436b-4614-a535-4a8261075315,Cheryl Serrano,Business,224160.34,3081.71,Open,2025-05-29,2027-09-02,Hailey Mendez,New Leah,South Dakota
+4b00611a-4a0a-405a-b56c-0ea41db9836b,Stanley Garcia,Business,9594.29,1739.11,Open,2023-11-05,2028-06-10,Katherine Roberts,New Patrick,Alaska
+a4167efb-04fb-4746-9c5b-3ca77b660c4e,Sara Austin,Business,97398.09,977.02,Pending,2024-12-19,2028-10-24,William Parker Jr.,South Christian,Massachusetts
+cc0be850-5e5f-4e41-b6ae-99ac93d62c29,Michael Steele,Health,383228.83,3920.06,Rejected,2021-05-24,2023-04-24,Brenda Randolph,East Kenneth,West Virginia
+1edf4704-95f5-4991-b14f-594503f38388,Mrs. Amber Maldonado DDS,Home,21972.38,579.73,Rejected,2020-10-10,2026-04-01,David Clark,Katietown,Oklahoma
+83471051-186b-417d-80cc-db41184502c2,Kirsten Allen,Auto,75526.74,343.31,Closed,2024-08-27,2028-11-24,Jennifer Richard,New Brandonmouth,Wyoming
+a0a34177-5a87-436f-81a3-aa08bf045d25,Austin Armstrong,Life,363821.09,3323.55,Pending,2021-12-22,2023-09-20,Kelsey Whitaker,New Jacquelinebury,Maryland
+520ca167-5eeb-43bc-87f4-d8e4879daa68,Ashley Mcmahon,Business,35665.82,4566.03,Pending,2023-01-25,2025-11-27,Taylor Holland MD,New Kevinbury,Connecticut
+7fa819f7-8e81-4abc-80cd-77d75c40e664,Julian Ballard,Home,194801.79,4141.78,Closed,2023-10-28,2025-02-03,Dr. Barbara Burns,West Richard,Tennessee
+123877b0-3742-447f-93de-6cb90fbe1aa8,Gregory Young,Auto,203959.52,3297.19,Rejected,2024-04-16,2029-10-06,Peter Edwards,West Gracetown,Vermont
+4a43ca7c-a121-4161-85a8-9a86692c87e1,Casey Richmond,Life,125107.92,643.0,Pending,2020-10-03,2026-10-15,Adam Martinez,Natashabury,South Dakota
+70aea902-e78b-41bc-b492-0414a5f2e41f,Gregory Smith,Auto,212678.32,1538.16,Pending,2025-05-17,2029-06-19,Bryan Alvarado,Port Thomasview,Idaho
+ff2102e6-6170-4098-9d3f-8aeee192944a,Anna Lewis,Business,42842.61,2701.68,Open,2025-04-01,2027-06-01,Sarah Bryan,Jensenfort,Montana
+ee612492-5764-453b-bcab-8332915f3d46,Michael Clark,Business,295895.77,563.77,Closed,2024-03-03,2028-11-01,Brandon Flowers,South Zacharystad,Rhode Island
+a021bd54-c841-4a16-b0a8-a5755f6fd564,Vickie Sweeney,Home,173543.51,747.97,Pending,2025-03-18,2026-06-22,Travis Stewart,Michaeltown,Vermont
+b87f4d85-6434-46aa-8ac8-1b47f371eb03,Paul Winters,Business,449824.86,2686.37,Pending,2021-09-17,2030-03-13,Kayla Floyd,North Traceyside,Louisiana
+82798ee1-0f77-4b08-b884-f8a54eaaa704,Frank Wells,Home,296673.62,4077.94,Rejected,2022-01-10,2022-07-01,Stacy Rodriguez MD,Amandaport,Arkansas
+65c78996-dfcc-46ff-8a07-fee7af88f33b,Savannah Bryan,Auto,24194.16,2702.96,Rejected,2021-11-20,2029-11-11,Bethany Mclaughlin,Longland,Massachusetts
+c521898d-76a5-4ba0-9fda-ef9658454ec0,Brian Brooks,Auto,34150.89,2048.89,Open,2021-08-05,2027-08-24,John Fuller,East Micheleborough,Michigan
+7be1907d-740c-4620-b4ba-ac58fab899b3,Vincent Peters,Health,280138.89,3701.4,Open,2021-06-01,2027-01-28,Crystal Smith,Josephside,Georgia
+aa2b117d-23b0-4c91-90d4-741486d59db7,Sheila Ray,Life,283695.86,2532.99,Rejected,2022-05-12,2025-04-26,Brittany Simon,Robinsonbury,Iowa
+84481bcf-cbbb-4baa-ad90-caa044514688,Patricia Mcgee,Commercial Property,432942.72,4011.94,Pending,2021-01-19,2023-12-27,Brandon Mooney,Hogantown,Oklahoma
+0e116f06-2350-47b3-8ae2-ac2792013ec1,Jill Davis,Commercial Property,169595.6,789.12,Pending,2022-08-20,2025-02-07,Kevin Clay,Lake Julia,Idaho
+4eeb66b1-6222-4d15-9951-5a8d3165e829,Bobby Ruiz,Business,205029.01,3212.33,Open,2022-10-07,2025-08-30,Norma Baker,Johnnyview,Utah
+f09d3a99-a568-4763-9c75-0f610f3f9a72,Maria Carpenter,Commercial Property,431858.38,1372.22,Pending,2020-12-08,2027-03-14,Phillip Schultz,New Monicaberg,New Mexico
+633303b6-9e0b-4c17-b35e-eef7932032c6,Lisa Burns,Health,327548.8,3959.54,Pending,2021-11-21,2027-01-28,David Boone,New Vincent,Washington
+c36ccf59-ee65-4ece-b161-736ca2ba667b,Danielle Wright,Business,440075.42,4055.44,Pending,2023-11-17,2029-10-14,Summer Mendoza,South Joseberg,Alabama
+07408062-5948-45a9-b373-088899742667,Christopher Smith,Auto,421861.87,2572.79,Rejected,2022-04-17,2026-03-10,Angela Hayes,Morganmouth,Alabama
+3cafeaa5-c587-427c-89e9-250e42ab79ad,Caitlin Solis,Health,138107.23,2310.95,Rejected,2022-11-26,2027-07-05,Rachael Frey,East Kathleen,Wyoming
+dcc523b3-b0fb-43e5-9a62-2eabe19d674d,Benjamin Logan,Life,300820.57,3464.91,Closed,2021-05-01,2023-01-02,Joseph Scott,East Samuel,Montana
+ca07925e-952e-4439-ac25-02afcc480ceb,Jennifer Arroyo,Auto,395798.25,3171.0,Pending,2023-02-28,2028-08-27,Abigail Stevenson,Johnsontown,Pennsylvania
+395fb39c-b642-4d8e-9a3d-e35f1dacb772,Michael Taylor,Auto,235612.68,2571.15,Closed,2025-01-03,2028-10-08,Gregory Carroll,Hollandberg,Arizona
+764351d9-877f-4534-a166-14aaa95eaa4b,Sherry Torres,Health,229528.64,2425.65,Closed,2022-11-05,2023-03-16,Jerry Jacobson,Ashleyfurt,Iowa
+d24c3d69-fca5-4753-84a5-2fc169849500,Elizabeth Stanley,Health,163616.5,3599.31,Closed,2025-06-06,2029-08-08,Anthony Cruz,Port Jenniferhaven,Maine
+4d15d2f2-3f7a-4f30-825a-4a0d5e3d2d59,Patrick White MD,Auto,479792.08,598.37,Closed,2024-08-05,2026-06-26,Sabrina Hart,South Kennethborough,Utah
+80459678-55f4-4df6-b24f-589b94f4f363,Vincent Hodges,Life,205821.96,2115.36,Closed,2025-08-08,2027-10-09,Ryan Myers Jr.,Lake Sonya,Alaska
+168ff432-c98c-4164-80f7-6ba8abf8f4ba,Raymond Garcia,Auto,169777.84,2825.72,Closed,2021-03-24,2028-07-20,Ricardo Silva,Lake Adam,Nevada
+c90eff25-bea7-404a-9d8e-a3f60ee6b0e8,Mr. Bruce Woods Jr.,Business,275164.46,2387.03,Rejected,2023-10-19,2027-02-28,Scott Duran,South Robertfurt,Wisconsin
+91d29deb-e013-4a42-88e5-e9a27565e709,Kyle Ramos,Home,317475.7,1574.81,Closed,2022-03-09,2023-08-17,Elaine Bell,Aprilville,Oklahoma
+941068e0-63dd-4970-b035-d7cb9379c4c1,Amanda Olson,Auto,45989.88,702.86,Open,2023-07-31,2026-11-01,Tiffany Vaughan,Castilloport,Montana
+663032ea-3ceb-4902-aa5b-3dfee765ace6,Mr. Chad Kennedy DDS,Auto,197646.74,292.03,Pending,2024-01-21,2028-03-18,Joshua Cook,Brookechester,Arkansas
+c1eb5c50-4fb6-4ae7-a26a-c08b743b0de6,Sarah Rich,Business,367898.99,333.6,Closed,2023-10-10,2025-11-05,Christina Sims,South Alyssaburgh,Connecticut
+15ec6b29-8f52-4a2b-add4-e64349b76eab,Anthony Price,Home,55311.79,3447.87,Pending,2021-02-20,2027-11-17,Jesse Richardson,Whitneytown,Colorado
+c818c8ce-bc4a-43b4-ac50-c80b949a181d,Thomas Banks,Health,9454.55,1520.79,Open,2025-08-14,2027-04-05,David Park,South Patrick,Idaho
+c3245e93-1d22-4269-9648-cd078528789d,Kevin Sullivan,Life,206945.64,3183.82,Closed,2024-01-11,2027-01-25,Joseph Hammond,Barberport,Nebraska
+dbad892d-d909-46de-8519-052f13b1079d,Michael Torres,Home,33946.09,2623.87,Closed,2023-11-26,2025-01-08,Laura Galloway,Janetmouth,Oregon
+9cddff14-f1d3-4599-8551-e3def9f23098,Amanda Wagner,Life,24499.15,3424.21,Rejected,2020-08-16,2028-05-09,Christian Castillo,Mitchellton,Arizona
